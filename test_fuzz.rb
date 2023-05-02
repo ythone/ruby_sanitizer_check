@@ -11,11 +11,10 @@ def fuzz(input_file)
     output = `echo #{line} | radamsa`
     if status.success?
       # Do something with the mutated data
-      puts "output: #{output}"
       puts "Mutated data: #{mutated_data.class}"
       puts "Mutated data: #{mutated_data}"
       data = mutated_data
-      sanitize_input(output)
+      sanitize_input(mutated_data)
     else
       puts "Error running Radamsa"
     end
