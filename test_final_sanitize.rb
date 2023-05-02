@@ -9,18 +9,21 @@ require 'nokogiri'
 
 def sanitize_input(input)
   # Replace < and > with their HTML entity string
-  input.gsub!(/</, "&lt;")
-  input.gsub!(/>/, "&gt;")
+  formatted_input=input.force_encoding('ISO-8859-1').encode('UTF-8')
+  reviview_formated=formatted_input.encode!("UTF-8", "ISO-8859-1", invalid: :replace, undef: :replace)
+  reviview_formated.scrub!('')
+  reviview_formated.gsub!(/</, "&lt;")
+  reviview_formated.gsub!(/>/, "&gt;")
   
   # Replace double quote with its HTML entity string
-  input.gsub!(/"/, "&quot;")
+  reviview_formated.gsub!(/"/, "&quot;")
   
   # Replace single quote with its HTML entity string
-  input.gsub!(/'/, "&#39;")
+  reviview_formated.gsub!(/'/, "&#39;")
 
   # Sanitize the input SafeListSanitizer
   sanitizer = Rails::Html::WhiteListSanitizer.new
-  sanitized_input = sanitizer.sanitize(input)
+  sanitized_input = sanitizer.sanitize(reviview_formated)
 
   # Replace double quote with its HTML entity string
   sanitized_input.gsub!(/"/, "&quot;")
