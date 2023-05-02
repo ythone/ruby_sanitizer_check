@@ -3,13 +3,12 @@ require './test_final_sanitize.rb'
 def fuzz(input_file)
   # Run Radamsa on the input file
   #mutated_data, status = Open3.capture2("radamsa #{input_file}")
-
+  count = 0
   # Open the input file and read its contents line by line
   File.foreach(input_file) do |line|
     # Run Radamsa on the current line
     mutated_data, status = Open3.capture2("radamsa", stdin_data: line)
     data = mutated_data
-    count = 0
     if status.success?
       # Do something with the mutated data
       count = count + 1
