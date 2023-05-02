@@ -11,7 +11,7 @@ def fuzz(input_file)
 
     if status.success?
       # Do something with the mutated data
-      puts "Mutated data: #{mutated_data}"
+      puts "Mutated data: #{mutated_data.class}"
       sanitize_input(mutated_data)
     else
       puts "Error running Radamsa"
