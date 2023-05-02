@@ -9,45 +9,49 @@ require 'nokogiri'
 
 def sanitize_input(input)
   # Replace < and > with their HTML entity string
-  formatted_input=input.force_encoding('ISO-8859-1').encode('UTF-8')
-  reviview_formated=formatted_input.encode!("UTF-8", "ISO-8859-1", invalid: :replace, undef: :replace)
-  reviview_formated.scrub!('')
-  reviview_formated.gsub!(/</, "&lt;")
-  reviview_formated.gsub!(/>/, "&gt;")
-  
-  # Replace double quote with its HTML entity string
-  reviview_formated.gsub!(/"/, "&quot;")
-  
-  # Replace single quote with its HTML entity string
-  reviview_formated.gsub!(/'/, "&#39;")
+  if input.size <= 50
+      #formatted_input=input.force_encoding('ISO-8859-1').encode('UTF-8')
+      #reviview_formated=formatted_input.encode!("UTF-8", "ISO-8859-1", invalid: :replace, undef: :replace)
+      #reviview_formated.scrub!('')
+      input.gsub!(/</, "&lt;")
+      input.gsub!(/>/, "&gt;")
+      
+      # Replace double quote with its HTML entity string
+      input.gsub!(/"/, "&quot;")
+      
+      # Replace single quote with its HTML entity string
+      input.gsub!(/'/, "&#39;")
 
-  # Sanitize the input SafeListSanitizer
-  sanitizer = Rails::Html::WhiteListSanitizer.new
-  sanitized_input = sanitizer.sanitize(reviview_formated)
+      # Sanitize the input SafeListSanitizer
+      sanitizer = Rails::Html::WhiteListSanitizer.new
+      sanitized_input = sanitizer.sanitize(input)
 
-  # Replace double quote with its HTML entity string
-  sanitized_input.gsub!(/"/, "&quot;")
-  
-  # Replace single quote with its HTML entity string
-  sanitized_input.gsub!(/'/, "&#39;")
-  sanitized_input.gsub!(/`/, "&#x60;")
-  # Build the DOM using Nokogiri
-  #doc = Nokogiri::HTML::Document.parse(sanitize_input)
-  #detect_xss_sinks_with_xpath(doc)
-  #detect_xss_sinks_with_css(doc)
+      # Replace double quote with its HTML entity string
+      sanitized_input.gsub!(/"/, "&quot;")
+      
+      # Replace single quote with its HTML entity string
+      sanitized_input.gsub!(/'/, "&#39;")
+      sanitized_input.gsub!(/`/, "&#x60;")
+      # Build the DOM using Nokogiri
+      #doc = Nokogiri::HTML::Document.parse(sanitize_input)
+      #detect_xss_sinks_with_xpath(doc)
+      #detect_xss_sinks_with_css(doc)
 
-  #return sanitized_input
+      return sanitized_input
+  else
+    puts "input have more than 50 characters"
+  end
 end
 
 
 def detect_xss_sinks_with_xpath(html)
   puts "using xpath search DOM search........"
   # Build the DOM using Nokogiri
-  sanitize_input = sanitize_input(html)
+  sanitized_input = sanitize_input(html)
   puts "original input:-->#{html}"
-  puts "input sanitized:-->#{sanitize_input}"
+  puts "input sanitized:-->#{sanitized_input}"
   # Build the DOM using Nokogiri
-  doc = Nokogiri::HTML::Document.parse(sanitize_input)
+  doc = Nokogiri::HTML::Document.parse(sanitized_input)
   puts "building dom....:-->#{doc}"
 
   # Detect XSS sinks using XPath
@@ -70,11 +74,11 @@ end
 
 def detect_xss_sinks_with_css(html)
   puts "using css search DOM search........"
-  sanitize_input = sanitize_input(html)
+  sanitized_input = sanitize_input(html)
   puts "original input:-->#{html}"
-  puts "input sanitized:-->#{sanitize_input}"
+  puts "input sanitized:-->#{sanitized_input}"
   # Build the DOM using Nokogiri
-  doc = Nokogiri::HTML::Document.parse(sanitize_input)
+  doc = Nokogiri::HTML::Document.parse(sanitized_input)
   puts "building dom....:-->#{doc}"
 
   # Search for potential XSS sinks
@@ -96,7 +100,7 @@ def detect_xss_sinks_with_css(html)
 end
 
 # Example usage
-#input = "<div><img src='image.jpg' onerror='alert(\"XSS attack!\")'></div>"
+#input = "elem.innerText=elem.outerHTML"
 #detect_xss_sinks_with_xpath(input)
 #detect_xss_sinks_with_css(input)
 #puts "Scrubbed output final result: #{detect_xss_sinks_with_xpath(input)}"
