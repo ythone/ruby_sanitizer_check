@@ -26,4 +26,4 @@ def fuzz(input_file)
 end
 
 # Example usage
-fuzz('xss-payload-fragment.txt')
+fuzz('xss-payload-list.txt')
