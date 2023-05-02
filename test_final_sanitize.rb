@@ -7,7 +7,7 @@ require 'nokogiri'
 #detect_xss_sinks_css(html)
 
 
-def sanitize_input(input->String)
+def sanitize_input(input)
   # Replace < and > with their HTML entity string
   formatted_input=input.force_encoding('ISO-8859-1').encode('UTF-8')
   reviview_formated=formatted_input.encode!("UTF-8", "ISO-8859-1", invalid: :replace, undef: :replace)
