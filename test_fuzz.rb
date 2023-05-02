@@ -19,6 +19,7 @@ def fuzz(input_file)
       if data_css !="" && data_xpath !=""
         puts "--->Possible XSS detected with css search:#{data_css}"
         puts "--->Possible XSS detected with xpath search:#{data_css}"
+      end
     else
       puts "Error running Radamsa"
     end
