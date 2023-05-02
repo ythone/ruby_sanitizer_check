@@ -32,7 +32,7 @@ def sanitize_input(input)
   detect_xss_sinks_with_xpath(doc)
   detect_xss_sinks_with_css(doc)
 
-  return sanitized_input
+  #return sanitized_input
 end
 
 
