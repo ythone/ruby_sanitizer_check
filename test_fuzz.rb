@@ -12,7 +12,7 @@ def fuzz(input_file)
     if status.success?
       # Do something with the mutated data
       #puts "Mutated data: #{mutated_data.class}"
-      puts "Mutated data: #{mutated_data}"
+      #puts "Mutated data: #{mutated_data}"
       data_css=detect_xss_sinks_with_css(data)
       data_xpath=detect_xss_sinks_with_xpath(data)
       #sanitize_input(data)

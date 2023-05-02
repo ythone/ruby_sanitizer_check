@@ -45,7 +45,7 @@ end
 
 
 def detect_xss_sinks_with_xpath(html)
-  puts "using xpath search DOM search........"
+  #puts "using xpath search DOM search........"
   # Build the DOM using Nokogiri
   sanitized_input = sanitize_input(html)
   #puts "original input:-->#{html}"
