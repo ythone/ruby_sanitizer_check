@@ -32,9 +32,9 @@ def sanitize_input(input)
   sanitized_input.gsub!(/'/, "&#39;")
   sanitized_input.gsub!(/`/, "&#x60;")
   # Build the DOM using Nokogiri
-  doc = Nokogiri::HTML::Document.parse(sanitize_input)
-  detect_xss_sinks_with_xpath(doc)
-  detect_xss_sinks_with_css(doc)
+  #doc = Nokogiri::HTML::Document.parse(sanitize_input)
+  #detect_xss_sinks_with_xpath(doc)
+  #detect_xss_sinks_with_css(doc)
 
   #return sanitized_input
 end
@@ -43,10 +43,10 @@ end
 def detect_xss_sinks_with_xpath(html)
   puts "using xpath search DOM search........"
   # Build the DOM using Nokogiri
-  #sanitize_input = sanitize_input(html)
+  sanitize_input = sanitize_input(html)
   #puts sanitize_input
-  #doc = Nokogiri::HTML::Document.parse(sanitize_input)
-  #puts "building dom....:#{doc}"
+  doc = Nokogiri::HTML::Document.parse(sanitize_input)
+  puts "building dom....:#{doc}"
 
   # Detect XSS sinks using XPath
   scripts = doc.xpath('//script')
@@ -68,11 +68,11 @@ end
 
 def detect_xss_sinks_with_css(html)
   puts "using css search DOM search........"
-  #sanitize_input = sanitize_input(html)
+  sanitize_input = sanitize_input(html)
   #puts sanitize_input
   # Build the DOM using Nokogiri
-  #doc = Nokogiri::HTML::Document.parse(sanitize_input)
-  #puts "building dom....:#{doc}"
+  doc = Nokogiri::HTML::Document.parse(sanitize_input)
+  puts "building dom....:#{doc}"
 
   # Search for potential XSS sinks
   scripts = doc.css('script')

@@ -13,8 +13,9 @@ def fuzz(input_file)
       # Do something with the mutated data
       #puts "Mutated data: #{mutated_data.class}"
       puts "Mutated data: #{mutated_data}"
-      
-      sanitize_input(data)
+      detect_xss_sinks_with_css(data)
+      detect_xss_sinks_with_xpath(data)
+      #sanitize_input(data)
     else
       puts "Error running Radamsa"
     end
