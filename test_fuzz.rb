@@ -6,8 +6,8 @@ def fuzz(input_file)
 
   if status.success?
     # Do something with the mutated data
-    detect_xss_sinks_with_xpath(input)
-    detect_xss_sinks_with_css(input)
+    detect_xss_sinks_with_xpath(mutated_data)
+    detect_xss_sinks_with_css(mutated_data)
     puts "Mutated data: #{mutated_data}"
   else
     puts "Error running Radamsa"
