@@ -7,7 +7,7 @@ require 'nokogiri'
 #detect_xss_sinks_css(html)
 
 
-def sanitize_input(input)
+def sanitize_input(input->String)
   # Replace < and > with their HTML entity string
   formatted_input=input.force_encoding('ISO-8859-1').encode('UTF-8')
   reviview_formated=formatted_input.encode!("UTF-8", "ISO-8859-1", invalid: :replace, undef: :replace)
@@ -31,6 +31,7 @@ def sanitize_input(input)
   # Replace single quote with its HTML entity string
   sanitized_input.gsub!(/'/, "&#39;")
   sanitized_input.gsub!(/`/, "&#x60;")
+  # Build the DOM using Nokogiri
   doc = Nokogiri::HTML::Document.parse(sanitize_input)
   detect_xss_sinks_with_xpath(doc)
   detect_xss_sinks_with_css(doc)
