@@ -44,9 +44,11 @@ def detect_xss_sinks_with_xpath(html)
   puts "using xpath search DOM search........"
   # Build the DOM using Nokogiri
   sanitize_input = sanitize_input(html)
-  #puts sanitize_input
+  puts "original input:-->#{html}"
+  puts "input sanitized:-->#{sanitize_input}"
+  # Build the DOM using Nokogiri
   doc = Nokogiri::HTML::Document.parse(sanitize_input)
-  puts "building dom....:#{doc}"
+  puts "building dom....:-->#{doc}"
 
   # Detect XSS sinks using XPath
   scripts = doc.xpath('//script')
@@ -61,7 +63,7 @@ def detect_xss_sinks_with_xpath(html)
     puts "Found #{scripts.size} <script> tags and #{events.size} attributes with 'on' prefix"
     raise StandardError.new("--->Possible XSS detected")
   end
-  puts "nothing"
+  puts "nothing found using ---->xpath"
 end
 
 
@@ -69,10 +71,11 @@ end
 def detect_xss_sinks_with_css(html)
   puts "using css search DOM search........"
   sanitize_input = sanitize_input(html)
-  #puts sanitize_input
+  puts "original input:-->#{html}"
+  puts "input sanitized:-->#{sanitize_input}"
   # Build the DOM using Nokogiri
   doc = Nokogiri::HTML::Document.parse(sanitize_input)
-  puts "building dom....:#{doc}"
+  puts "building dom....:-->#{doc}"
 
   # Search for potential XSS sinks
   scripts = doc.css('script')
@@ -89,7 +92,7 @@ def detect_xss_sinks_with_css(html)
     puts "Found #{scripts.size} <script> tags and #{onevent_attrs.size} attributes with 'on' prefix"
     raise StandardError.new("--->Possible XSS detected")
   end
-  puts "nothing"
+  puts "nothing found using ---->css"
 end
 
 # Example usage
