@@ -12,6 +12,7 @@ def fuzz(input_file)
     if status.success?
       # Do something with the mutated data
       data = "echo #{mutated_data} | radamsa --seed 4"
+      puts "mutated data: #{data}"
       count = count + 1
       #puts "Mutated data: #{mutated_data.class}"
       #puts "Mutated data: #{mutated_data}"
