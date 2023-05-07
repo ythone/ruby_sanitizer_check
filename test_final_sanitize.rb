@@ -75,6 +75,7 @@ end
 
 def detect_xss_sinks_with_css(html)
   #puts "using css search DOM search........"
+  puts "payload ---> #{html}"
   sanitized_input = sanitize_input(html)
   #puts "original input:-->#{html}"
   #puts "input sanitized:-->#{sanitized_input}"
