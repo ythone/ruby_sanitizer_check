@@ -6,7 +6,7 @@ File.open("xss-payload-list.txt", "r") do |input_file|
       input_file.each_line do |line|
   
         # Check if the line has less than 50 characters
-        if line.length <= 50
+        if line.length <= 40
   
           # Write the line to the output file
           output_file.write(line)
