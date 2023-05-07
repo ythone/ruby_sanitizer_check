@@ -1,0 +1,21 @@
+degrasguemto@instance-test:~/ruby_sanitizer_check$ radamsa -h
+Usage: radamsa [arguments] [file ...]
+  -h | --help, show this thing
+  -a | --about, what is this thing?
+  -V | --version, show program version
+  -o | --output <arg>, output pattern, e.g. out.bin /tmp/fuzz-%n.%s, -, :80 or 127.0.0.1:80 or 127.0.0.1:123/udp [-]
+  -n | --count <arg>, how many outputs to generate (number or inf) [1]
+  -s | --seed <arg>, random seed (number, default random)
+  -m | --mutations <arg>, which mutations to use [ft=2,fo=2,fn,num=5,ld,lds,lr2,li,ls,lp,lr,lis,lrs,sr,sd,bd,bf,bi,br,bp,bei,bed,ber,uw,ui=2,xp=9,ab]
+  -p | --patterns <arg>, which mutation patterns to use [od,nd=2,bu]
+  -g | --generators <arg>, which data generators to use [random,file=1000,jump=200,stdin=100000]
+  -M | --meta <arg>, save metadata about generated files to this file
+  -r | --recursive, include files in subdirectories
+  -S | --seek <arg>, start from given testcase
+  -T | --truncate <arg>, take only first n bytes of each output (mainly intended for UDP)
+  -d | --delay <arg>, sleep for n milliseconds between outputs
+  -l | --list, list mutations, patterns and generators
+  -C | --checksums <arg>, maximum number of checksums in uniqueness filter (0 disables) [10000]
+  -H | --hash <arg>, hash algorithm for uniqueness checks (stream, sha1 or sha256) [stream]
+       --output-template <arg>, Output template. %f is fuzzed data. e.g. "<html>%f</html>"
+  -v | --verbose, show progress during generation
