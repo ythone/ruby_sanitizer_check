@@ -29,4 +29,4 @@ def fuzz(input_file)
 end
 
 # Example usage
-fuzz('xss-payload-list.txt')
+fuzz('xss-payload-formated.txt')
