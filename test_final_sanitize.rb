@@ -51,7 +51,7 @@ def detect_xss_sinks_with_xpath(html)
   puts "original input:-->#{html}"
   puts "input sanitized:-->#{sanitized_input}"
   # Build the DOM using Nokogiri
-  context = "<input class=\"form-control\" tabindex=\"106\" type=\"text\" value=\"#{html} \" name=\"user[address_line1]\" id=\"user_address_line1\" />"
+  context = "<input class=\"form-control\" tabindex=\"106\" type=\"text\" value=\"#{sanitized_input} \" name=\"user[address_line1]\" id=\"user_address_line1\" />"
   doc = Nokogiri::HTML::Document.parse(context)
   #puts "building dom....:-->#{doc}"
 
@@ -82,7 +82,7 @@ def detect_xss_sinks_with_css(html)
   puts "original input:-->#{html}"
   puts "input sanitized:-->#{sanitized_input}"
   # Build the DOM using Nokogiri
-  context = "<input class=\"form-control\" tabindex=\"106\" type=\"text\" value=\"#{html}\" name=\"user[address_line1]\" id=\"user_address_line1\" />"
+  context = "<input class=\"form-control\" tabindex=\"106\" type=\"text\" value=\"#{sanitized_input}\" name=\"user[address_line1]\" id=\"user_address_line1\" />"
   doc = Nokogiri::HTML::Document.parse(context)
   #puts "building dom....:-->#{doc}"
 
