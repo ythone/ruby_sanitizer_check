@@ -51,7 +51,8 @@ def detect_xss_sinks_with_xpath(html)
   #puts "original input:-->#{html}"
   #puts "input sanitized:-->#{sanitized_input}"
   # Build the DOM using Nokogiri
-  doc = Nokogiri::HTML::Document.parse(sanitized_input)
+  context = "<input class=\"form-control\" tabindex=\"106\" type=\"text\" value=\"#{html} \" name=\"user[address_line1]\" id=\"user_address_line1\" />"
+  doc = Nokogiri::HTML::Document.parse(context)
   #puts "building dom....:-->#{doc}"
 
   # Detect XSS sinks using XPath
@@ -80,7 +81,8 @@ def detect_xss_sinks_with_css(html)
   #puts "original input:-->#{html}"
   #puts "input sanitized:-->#{sanitized_input}"
   # Build the DOM using Nokogiri
-  doc = Nokogiri::HTML::Document.parse(sanitized_input)
+  context = "<input class=\"form-control\" tabindex=\"106\" type=\"text\" value=\"#{html} \" name=\"user[address_line1]\" id=\"user_address_line1\" />"
+  doc = Nokogiri::HTML::Document.parse(context)
   #puts "building dom....:-->#{doc}"
 
   # Search for potential XSS sinks
