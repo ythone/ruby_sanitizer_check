@@ -7,11 +7,11 @@ def fuzz(input_file)
   # Open the input file and read its contents line by line
   File.foreach(input_file) do |line|
     # Run Radamsa on the current line
-    mutated_data, status = Open3.capture2("radamsa", stdin_data: line)
+    mutated_data, status = Open3.capture2("radamsa -n 1", stdin_data: line)
     
     if status.success?
       # Do something with the mutated data
-      data = "echo #{mutated_data} | radamsa --seed 4"
+      data = mutated_data
       puts "mutated data: #{data}"
       count = count + 1
       #puts "Mutated data: #{mutated_data.class}"
